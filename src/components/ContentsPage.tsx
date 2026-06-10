@@ -10,7 +10,7 @@ export default function ContentsPage() {
   const [touchStartX, setTouchStartX] = useState<number | null>(null);
   
   // Tab States
-  const [activeTab, setActiveTab] = useState<"hiragana" | "special" | "katakana" | "phrases">("hiragana");
+  const [activeTab, setActiveTab] = useState<"hiragana" | "special" | "katakana" | "phrases" | "daily">("hiragana");
   const [specialTab, setSpecialTab] = useState<"dakuon" | "handakuon" | "yoon">("dakuon");
 
   // 46 Basic Hiragana arranged in traditional Gojūon (5x11 Matrix)
@@ -84,6 +84,22 @@ export default function ContentsPage() {
   ).length;
 
   const countPhrases = level2Ids.length + level3Ids.length + level5Ids.length;
+
+  // Predefined IDs in standard charts
+  const predefinedIds = [
+    ...gojuonMatrix.flat(),
+    ...katakanaGojuonMatrix.flat(),
+    ...dakuonMatrix.flat(),
+    ...handakuonMatrix.flat(),
+    ...yoonMatrix.flat(),
+    ...level2Ids,
+    ...level3Ids,
+    ...level5Ids,
+    62
+  ].filter((id): id is number => id !== null);
+
+  // Daily lessons (those generated and compiled but not part of standard charts)
+  const dailyLessons = lessonsData.filter((l) => !predefinedIds.includes(l.id));
 
   // Sync page title & description with browser during client-side navigation
   useEffect(() => {
@@ -307,6 +323,28 @@ export default function ContentsPage() {
                       <span className="text-[8px] opacity-75">{countPhrases}</span>
                     </div>
                     <div className="text-[8.5px] font-mono text-stone-400 font-bold leading-none mt-0.5">Phrases & Travel</div>
+                  </div>
+                </button>
+
+                {/* 5. Daily Lessons Tab */}
+                <button
+                  onClick={() => setActiveTab("daily")}
+                  className={`flex-1 lg:flex-none text-left flex items-center gap-2.5 p-2 rounded-xl border transition-all cursor-pointer ${
+                    activeTab === "daily"
+                      ? "bg-[#b91c1c]/5 border-[#b91c1c]/30 shadow-sm text-[#b91c1c] font-bold"
+                      : "bg-white hover:bg-stone-50 border-stone-200 text-stone-600 hover:text-stone-800"
+                  }`}
+                  id="tab-daily"
+                >
+                  <div className={`p-1.5 rounded-lg flex-shrink-0 ${activeTab === "daily" ? "bg-[#b91c1c] text-white" : "bg-stone-100 text-stone-500"}`}>
+                    <Sparkles size={13} />
+                  </div>
+                  <div className="truncate text-left leading-tight">
+                    <div className="text-[11px] font-extrabold flex items-center gap-1">
+                      <span>บทเรียนเพิ่มเติม (新)</span>
+                      <span className="text-[8px] opacity-75">{dailyLessons.length}</span>
+                    </div>
+                    <div className="text-[8.5px] font-mono text-stone-400 font-bold leading-none mt-0.5">Daily Lessons</div>
                   </div>
                 </button>
 
@@ -632,6 +670,60 @@ export default function ContentsPage() {
                           </div>
                         </div>
 
+                      </div>
+                    </motion.div>
+                  )}
+
+                  {/* TAB 5: DAILY LESSONS */}
+                  {activeTab === "daily" && (
+                    <motion.div
+                      key="daily"
+                      initial={{ opacity: 0, y: 10 }}
+                      animate={{ opacity: 1, y: 0 }}
+                      exit={{ opacity: 0, y: -10 }}
+                      transition={{ duration: 0.15 }}
+                      className="bg-[#fbf9f0]/40 rounded-xl p-3 border border-stone-200/70 h-full flex flex-col justify-start"
+                    >
+                      <div className="text-left border-b border-stone-200 pb-1.5 mb-2.5 flex-shrink-0">
+                        <span className="px-2 py-0.5 rounded text-[8.5px] font-extrabold tracking-wide uppercase bg-red-100 text-[#b91c1c] font-sans">
+                          บทเรียนรายวันเพิ่มเติม (Daily Extra Lessons)
+                        </span>
+                        <h3 className="text-[11.5px] font-extrabold text-stone-850 font-sans leading-tight mt-0.5">
+                          เรียนรู้ประโยคและบทสนทนาอัปเดตใหม่ทุกวันเพื่อยกระดับทักษะ
+                        </h3>
+                      </div>
+
+                      <div className="space-y-3.5 overflow-y-auto max-h-[350px] pr-1 pb-1" id="daily-scroll-area">
+                        {dailyLessons.length === 0 ? (
+                          <div className="text-stone-400 text-xs py-8 text-center font-sans">
+                            ยังไม่มีบทเรียนเพิ่มเติมในขณะนี้ ติดตามอัปเดตได้เร็วๆ นี้!
+                          </div>
+                        ) : (
+                          <div className="grid grid-cols-1 md:grid-cols-2 gap-1.5">
+                            {dailyLessons.map((lesson) => (
+                              <Link
+                                key={lesson.id}
+                                to={`/lesson/${lesson.id}`}
+                                className="group flex items-center justify-between p-1.5 px-2.5 rounded-lg bg-white hover:bg-[#fffae8]/60 border border-stone-200 hover:border-red-400 shadow-[0_1px_2px_rgba(0,0,0,0.01)] transition-all"
+                              >
+                                <div className="flex items-center gap-1.5 overflow-hidden text-left leading-none">
+                                  <span className="flex-shrink-0 w-4 h-4 flex items-center justify-center rounded bg-stone-100 text-[#b91c1c] text-[8.5px] font-bold font-mono">
+                                    {lesson.id}
+                                  </span>
+                                  <div className="overflow-hidden leading-tight">
+                                    <div className="text-[10px] md:text-[10.5px] font-black text-stone-800 group-hover:text-[#b91c1c] truncate">
+                                      {lesson.title_ja}
+                                    </div>
+                                    <div className="text-[8.5px] text-stone-400 font-sans truncate mt-0.5">
+                                      {lesson.title_th}
+                                    </div>
+                                  </div>
+                                </div>
+                                <ArrowRight size={10} className="text-stone-300 group-hover:text-[#b91c1c] transform group-hover:translate-x-0.5 transition-all flex-shrink-0 mb-0.5" />
+                              </Link>
+                            ))}
+                          </div>
+                        )}
                       </div>
                     </motion.div>
                   )}
