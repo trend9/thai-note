@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import { BrowserRouter, Routes, Route, useLocation } from "react-router-dom";
+import { Analytics } from "@vercel/analytics/react";
 import CoverPage from "./components/CoverPage";
 import ContentsPage from "./components/ContentsPage";
 import LessonPage from "./components/LessonPage";
@@ -100,6 +101,7 @@ export default function App() {
   return (
     <BrowserRouter>
       <AppContent />
+      <Analytics />
     </BrowserRouter>
   );
 }
