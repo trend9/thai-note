@@ -3,7 +3,7 @@ import fs from "fs";
 import path from "path";
 import { fileURLToPath } from "url";
 import { createServer as createViteServer } from "vite";
-import { compileLessons } from "./src/data/compile_lessons.js";
+import { compileLessons } from "./src/data/compile_lessons";
 import lessonsData from "./src/data/lessons.json";
 
 // __dirname / __filename polyfills for ESModules (in some environments)
