@@ -1,0 +1,123 @@
+name: Daily Japanese Lesson Generator
+
+on:
+  schedule:
+    # Run once daily at 00:00 UTC (09:00 JST / 07:00 ICT)
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Allows manual trigger from GitHub Actions tab
+
+jobs:
+  generate-lesson:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write # Essential permission to commit and push changes back to main
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          cache: 'npm'
+          node-version: '20'
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Cache Ollama models
+        uses: actions/cache@v4
+        with:
+          path: ~/.ollama
+          key: ollama-models-gemma2-2b
+          restore-keys: |
+            ollama-models-
+
+      - name: Install Python dependencies
+        run: |
+          pip install fastapi uvicorn requests pydantic
+
+      - name: Install Ollama
+        run: |
+          curl -fsSL https://ollama.com/install.sh | sh
+
+      - name: Start Ollama & Local API Server
+        run: |
+          # Start Ollama
+          ollama serve &
+          
+          # Write local API server script
+          cat << 'EOF' > local_api_server.py
+          import requests
+          from fastapi import FastAPI, HTTPException
+          from pydantic import BaseModel
+          
+          app = FastAPI()
+          
+          class TextRequest(BaseModel):
+              system_prompt: str
+              user_prompt: str
+          
+          @app.post("/generate/text")
+          async def generate_text(req: TextRequest):
+              try:
+                  url = "http://localhost:11434/api/chat"
+                  payload = {
+                      "model": "gemma2:2b",
+                      "messages": [
+                          {"role": "system", "content": req.system_prompt},
+                          {"role": "user", "content": req.user_prompt}
+                      ],
+                      "stream": False
+                  }
+                  res = requests.post(url, json=payload, timeout=240)
+                  if res.status_code == 200:
+                      return {"result": res.json().get("message", {}).get("content", "")}
+                  raise HTTPException(status_code=500, detail="Ollama returned error")
+              except Exception as e:
+                  raise HTTPException(status_code=500, detail=str(e))
+          
+          if __name__ == "__main__":
+              import uvicorn
+              uvicorn.run(app, host="127.0.0.1", port=8000)
+          EOF
+          
+          # Wait for Ollama to start
+          echo "Waiting for Ollama to start..."
+          until curl -s http://localhost:11434 > /dev/null; do sleep 1; done
+          echo "Ollama is running. Pulling gemma2:2b..."
+          ollama pull gemma2:2b
+          
+          # Start the local API server in the background
+          python local_api_server.py &
+          echo "Waiting for local API server to start..."
+          until curl -s http://127.0.0.1:8000 > /dev/null; do sleep 1; done
+          echo "Local API server is ready!"
+
+      - name: Install Dependencies
+        run: npm ci
+
+      - name: Run Lesson Generator
+        env:
+          COLAB_API_URL: "http://127.0.0.1:8000"
+        run: npx tsx scripts/generate-lesson.ts
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
+          git add src/data/lessons/
+          git add src/data/lessons.json
+          
+          if git diff --staged --quiet; then
+            echo "No new lesson generated today."
+          else
+            git commit -m "Auto-generate: Daily Japanese lesson for Thai learners [skip ci]"
+            git push origin main
+          fi

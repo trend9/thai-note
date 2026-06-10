@@ -20,7 +20,7 @@ async function startServer() {
   // is instantly reflected on clients and SEO search crawlers without a server reboot!
   function getLessons(): any[] {
     try {
-      const lessonsPath = path.join(__dirname, "src", "data", "lessons.json");
+      const lessonsPath = path.join(process.cwd(), "src", "data", "lessons.json");
       const rawData = fs.readFileSync(lessonsPath, "utf8");
       return JSON.parse(rawData);
     } catch (err) {
@@ -194,11 +194,11 @@ async function startServer() {
       // 適切なindex.htmlファイルの決定
       let template: string;
       if (process.env.NODE_ENV !== "production") {
-        template = fs.readFileSync(path.resolve(__dirname, "index.html"), "utf-8");
+        template = fs.readFileSync(path.resolve(process.cwd(), "index.html"), "utf-8");
         // Apply Vite HTML transforms for proper dev scripts mapping
         template = await vite.transformIndexHtml(url, template);
       } else {
-        template = fs.readFileSync(path.resolve(__dirname, "dist", "index.html"), "utf-8");
+        template = fs.readFileSync(path.resolve(process.cwd(), "dist", "index.html"), "utf-8");
       }
 
       // 該当ページに応じたメタ情報の決定
@@ -236,4 +236,8 @@ async function startServer() {
   });
 }
 
-startServer();
+if (!process.env.VERCEL) {
+  startServer();
+}
+
+export default app;
