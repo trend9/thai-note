@@ -23,7 +23,7 @@ if (!process.env.VERCEL) {
 // is instantly reflected on clients and SEO search crawlers without a server reboot!
 function getLessons(): any[] {
   try {
-    const lessonsPath = path.join(process.cwd(), "src", "data", "lessons.json");
+    const lessonsPath = path.join(__dirname, "src", "data", "lessons.json");
     if (fs.existsSync(lessonsPath)) {
       const rawData = fs.readFileSync(lessonsPath, "utf8");
       return JSON.parse(rawData);
@@ -203,7 +203,7 @@ app.get("*", async (req, res, next) => {
     // Determine the index.html file path
     let template: string;
     if (process.env.NODE_ENV !== "production" && !process.env.VERCEL) {
-      template = fs.readFileSync(path.resolve(process.cwd(), "index.html"), "utf-8");
+      template = fs.readFileSync(path.resolve(__dirname, "index.html"), "utf-8");
       if (!vite) {
         vite = await createViteServer({
           server: { middlewareMode: true },
@@ -213,7 +213,7 @@ app.get("*", async (req, res, next) => {
       // Apply Vite HTML transforms for proper dev scripts mapping
       template = await vite.transformIndexHtml(url, template);
     } else {
-      template = fs.readFileSync(path.resolve(process.cwd(), "dist", "index.html"), "utf-8");
+      template = fs.readFileSync(path.resolve(__dirname, "dist", "index.html"), "utf-8");
     }
 
     // Determine SEO metadata
