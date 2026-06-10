@@ -4496,5 +4496,42 @@
     "explanation_th": "บทเรียนเพื่อเลเวลอัปเรียนรู้การสื่อสารที่เป็นธรรมชาติประจำวัน เพื่อยกระดับความสามารถในการพูดภาษาญี่ปุ่นของคนไทยทีละขั้นตอน",
     "tip_th": "ฝึกฝนออกเสียงตามไฟล์เสียงซ้ำๆ เพื่อความคุ้นชินของรูปปากและกล้ามเนื้อลิ้น",
     "meta_description": "เรียนรู้ภาษาญี่ปุ่นหน้าใหม่ประจำวัน บทที่ 166 ติวเข้มสะกดคำและประโยคจำลอง"
+  },
+  {
+    "id": 167,
+    "title_ja": "コンビニ会計をマスター！ (Mastering Convenience Store Payments!)",
+    "title_th": "ทักทายครั้งแรก: กำลังซื้อจากร้านค้าขายของ convenience store  (Hajimemashite:  การซื้อสินค้าจากร้านสะดวกซื้อ)",
+    "category": "Vocabulary",
+    "category_th": "e.g. 'ระดับ 5: บทสนทนาในชีวิตประจำวัน' or 'ระดับ 6: ไวยากรณ์น่ารู้'",
+    "char": "価格 (Price)",
+    "stroke_count": 8,
+    "how_to_write_ja": "会計 (kaiki) means transaction, payment, or check-out. ",
+    "how_to_write_th": "การจ่ายเงินเป็นภาษาไทยคือ กำหนดค่า (ga-na-da-k-a). เริ่มจากการบอกราคา (taeng-thaak), สิ่งสำคัญคือการแสดงความเคารพ (khun-sa-d-kha) และแสดงความสุภาพ (du-d-mai-khan). ",
+    "important_phrases": [
+      {
+        "phrase_ja": "おいくらですか？ (Oikurai desu ka?)",
+        "romaji": "oikura desu ka?",
+        "meaning_ja": "What's the price? / How much does it cost?",
+        "meaning_th": "ราคาเท่าไรหรอ ?",
+        "hint": "Use this when buying something. Remember to use polite language, such as adding a 'ค่ะ' (k-ka) at the end."
+      },
+      {
+        "phrase_ja": "お支払いはこちらでお願いします。(O-shibai e-ke-re-i-no-i-n-o-nai)",
+        "romaji": "oh-shibai-ekere-i-no-i-n-o-nai",
+        "meaning_ja": "Please pay here",
+        "meaning_th": "ยืนยันการชำระเงินได้เลยค่ะ.",
+        "hint": "Formal and polite. You can say 'ก็' (go) when you feel unsure about the price, to make your request more clear."
+      },
+      {
+        "phrase_ja": "現金でお願いします。(Kekko-de o-nai-sae-i-n-o-ka)",
+        "romaji": "kekk-o-de-o-nai-s-ai-n-o-ka",
+        "meaning_ja": "Please pay in cash.",
+        "meaning_th": "จ่ายด้วยเงินสดค่ะ",
+        "hint": "This is a polite and appropriate way to request payment."
+      }
+    ],
+    "explanation_th": "การทักทายครั้งแรก (Hajimemashite) - This phrase means 'Nice to meet you!' or 'It's nice to meet you', which can be used when first meeting someone at a convenience store.",
+    "tip_th": "Tip: You can use polite words like ‘ค่ะ’ (k-ka), ‘ครับ’ (k-kh) or ‘ด้วย pleasure’ (d-d-mai-khan) as appropriate to show respect and courtesy. ",
+    "meta_description": "Learn how to ask for the price, pay at a convenience store, and practice using basic Japanese phrases in this lesson! Perfect your Japanese skills with our step-by-step guide."
   }
 ]
