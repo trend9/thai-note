@@ -213,7 +213,7 @@ app.get("*", async (req, res, next) => {
       // Apply Vite HTML transforms for proper dev scripts mapping
       template = await vite.transformIndexHtml(url, template);
     } else {
-      template = fs.readFileSync(path.resolve(__dirname, "dist", "index.html"), "utf-8");
+      template = fs.readFileSync(path.resolve(__dirname, "index.html"), "utf-8");
     }
 
     // Determine SEO metadata
