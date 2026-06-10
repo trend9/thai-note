@@ -69,7 +69,7 @@ export default function CoverPage() {
 
           {/* Publisher stamp */}
           <div className="self-end px-3 py-1 bg-amber-500/10 border border-amber-400/20 rounded font-sans text-[10px] text-amber-200 uppercase tracking-widest leading-none">
-            YUI-YUTO.COM
+            NIHON NOTE
           </div>
 
           {/* Book Title Panel */}
@@ -82,17 +82,17 @@ export default function CoverPage() {
 
             {/* Main Japanese title */}
             <h1 className="text-3xl md:text-4xl font-extrabold text-white tracking-tight leading-snug drop-shadow-md font-sans">
-              0から始める<br />
-              <span className="text-amber-300 bg-red-950/40 px-3 py-1.5 rounded-lg border border-red-800/20 inline-block mt-1">日本語学習手帳</span>
+              NIHON NOTE<br />
+              <span className="text-amber-300 bg-red-950/40 px-3 py-1.5 rounded-lg border border-red-800/20 inline-block mt-1 text-2xl md:text-3xl">สมุดเรียนภาษาญี่ปุ่น</span>
             </h1>
 
             {/* Sub Thai Title with cute round font */}
             <div className="space-y-1.5">
               <h2 className="text-xl md:text-2xl font-bold text-amber-200 tracking-wide font-sans font-itim">
-                เรียนภาษาญี่ปุ่นวันละหน้า
+                เรียนภาษาญี่ปุ่นวันละหน้า 🇹🇭🇯🇵
               </h2>
               <p className="text-xs text-red-200 max-w-xs mx-auto font-sans">
-                สมุดโน้ตเรียนเริ่มจาก 0 เรียนง่าย ทบทวนฉับไว สนุกสไตล์พกพาสะดวก
+                สมุดโน้ตสำหรับคนไทย เริ่มจาก 0 เรียนง่าย ฝึกเขียน ฝึกฟัง ทบทวนทุกวัน
               </p>
             </div>
             
