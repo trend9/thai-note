@@ -4,6 +4,7 @@ import path from "path";
 import { fileURLToPath } from "url";
 import { createServer as createViteServer } from "vite";
 import { compileLessons } from "./src/data/compile_lessons.js";
+import lessonsData from "./src/data/lessons.json";
 
 // __dirname / __filename polyfills for ESModules (in some environments)
 const __filename = fileURLToPath(import.meta.url);
@@ -13,20 +14,24 @@ const app = express();
 const PORT = 3000;
 let vite: any = null;
 
-// Compile lessons at boot
-compileLessons();
+// Compile lessons at boot (skip on Vercel read-only environment)
+if (!process.env.VERCEL) {
+  compileLessons();
+}
 
 // Live Load Lessons Data dynamically so updating/appending lessons in lessons.json
 // is instantly reflected on clients and SEO search crawlers without a server reboot!
 function getLessons(): any[] {
   try {
     const lessonsPath = path.join(process.cwd(), "src", "data", "lessons.json");
-    const rawData = fs.readFileSync(lessonsPath, "utf8");
-    return JSON.parse(rawData);
+    if (fs.existsSync(lessonsPath)) {
+      const rawData = fs.readFileSync(lessonsPath, "utf8");
+      return JSON.parse(rawData);
+    }
   } catch (err) {
     console.error("Error reading lessons.json, returning fallback empty array.", err);
-    return [];
   }
+  return lessonsData;
 }
 
 // API Endpoints: Safe sever-side dynamic data
