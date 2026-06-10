@@ -1,0 +1,43 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Kanit", "Noto Sans JP", sans-serif;
+  --font-itim: "Itim", "M PLUS Rounded 1c", sans-serif;
+  --animate-spin-slow: spin 12s linear infinite;
+}
+
+@layer base {
+  body {
+    @apply font-sans;
+  }
+}
+
+/* Notebook lined-paper helper and post-it styles if any */
+#sticky-note::after {
+  content: '';
+  position: absolute;
+  bottom: -6px;
+  right: 12px;
+  width: 90%;
+  height: 10px;
+  background: rgba(0,0,0,0.04);
+  filter: blur(2px);
+  transform: rotate(1deg);
+  z-index: -10;
+}
+
+/* Custom scrollbars for clean list reading */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: rgba(0,0,0,0.05);
+  border-radius: 99px;
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(139, 92, 26, 0.3);
+  border-radius: 99px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(139, 92, 26, 0.5);
+}

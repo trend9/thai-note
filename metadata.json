@@ -1,0 +1,6 @@
+{
+  "name": "日本語1日1ページ手帳",
+  "description": "タイ人向けの極上日本語学習手帳。1日1ページ、Kindle風のめくりアニメーション、文化豆知識＆文化的アドバイス、常時広告バナー。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
