@@ -4533,5 +4533,35 @@
     "explanation_th": "การทักทายครั้งแรก (Hajimemashite) - This phrase means 'Nice to meet you!' or 'It's nice to meet you', which can be used when first meeting someone at a convenience store.",
     "tip_th": "Tip: You can use polite words like ‘ค่ะ’ (k-ka), ‘ครับ’ (k-kh) or ‘ด้วย pleasure’ (d-d-mai-khan) as appropriate to show respect and courtesy. ",
     "meta_description": "Learn how to ask for the price, pay at a convenience store, and practice using basic Japanese phrases in this lesson! Perfect your Japanese skills with our step-by-step guide."
+  },
+  {
+    "id": 168,
+    "title_ja": "駅へ行く方法 (How to get to the train station)",
+    "title_th": "วิธีเดินทางไปสถานีรถไฟ (Getting to the train station)",
+    "category": "Grammar",
+    "category_th": "Grammar",
+    "char": "駅へ (To the station) ",
+    "stroke_count": 8,
+    "how_to_write_ja": "駅へ行く方法は、まず目的地を把握しましょう。  ",
+    "how_to_write_th": "วิธีเดินทางไปสถานีรถไฟ คือ ต้องหาจุดหมายก่อน จากนั้นก็บอกทางคนอื่นได้ เช่น ไปที่สถานีรถไฟ ฉันอยากรู้ว่าจะไปทางไหน?",
+    "important_phrases": [
+      {
+        "phrase_ja": "駅へ行く",
+        "romaji": "ek-e-iku",
+        "meaning_ja": "To go to the station",
+        "meaning_th": "ไปสถานีรถไฟ",
+        "hint": "Use this phrase when you want to travel to a train station."
+      },
+      {
+        "phrase_ja": "目的地を把握する (to know your destination)",
+        "romaji": "desu-me-tou-o-hou-se",
+        "meaning_ja": "To know your destination",
+        "meaning_th": "ต้องรู้จุดหมายที่ต้องการไป",
+        "hint": "Before asking for directions, identify where you want to go."
+      }
+    ],
+    "explanation_th": "การเดินทางในกรณีนี้ อาจจะใช้คำว่า ‘สถานีรถไฟ’ ซึ่งเป็นชื่อที่ชัดเจนในภาษาไทย เพื่อให้ผู้ฟังเข้าใจได้ง่ายขึ้น  ",
+    "tip_th": "ถ้าพูดภาษาไทยแล้วไม่รู้ทาง ก็ลองถามคนอื่นๆ เช่น พนักงานร้านค้า หรือชาวบ้าน ที่น่าจะสามารถช่วยเหลือคุณได้  ",
+    "meta_description": "เรียนรู้วิธีเดินทางไปสถานีรถไฟในภาษาญี่ปุ่นและภาษาไทย, อ่านบทความนี้เพื่อเรียนรู้คำศัพท์ที่สำคัญและวิธีการพูดคุยเกี่ยวกับสถานีรถไฟ"
   }
 ]
