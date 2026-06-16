@@ -1,0 +1,37 @@
+{
+  "id": 173,
+  "title_ja": "服屋でのおすすめの質問",
+  "title_th": "ร้านเสื้อผ้าแนะนำแบบไหนดี?",
+  "category": "Conversation (会話)",
+  "category_th": "ระดับ 5: บทสนทนาในชีวิตประจำวัน",
+  "char": "おすすめ (recommendation)",
+  "stroke_count": 7,
+  "how_to_write_ja": "お店で洋服のアドバイスをもらいたい場合、おすすめはどのように言いますか？ これは「おすすめの〇〇」という形で表現します。\n\n例えば、お気に入りのブランドや色、デザインなどを伝えながら、「〇〇のおすすめは？」と尋ねるのも良いでしょう。",
+  "how_to_write_th": "ถ้าอยากรู้ร้านเสื้อผ้าแนะนำดีๆ มีอะไรแนะนำบ้าง แนะนำอย่างนี้ \"\"\"ร้านเสื้อผ้าแนะนำแบบไหนดี\"\"\"\n\nเช่น หากคุณชอบแบรนด์เฉพาะ หรือ สีหรือแบบต่างๆ ทักทายได้เลยว่า \"ร้านเสื้อผ้าแนะนำแบบไหนดี\", เพื่อให้ได้รับคำตอบที่ถูกใจ.\"",
+  "important_phrases": [
+    {
+      "phrase_ja": "お店で洋服のアドバイスをもらいたい場合、おすすめはどのように言いますか？",
+      "romaji": "o-tema de yuuho no sushitsu o getou ni itai, you-kichi wa ddo uchi wa dou itte ikimasu ka?",
+      "meaning_ja": "If I want to get fashion advice from a shop owner. How do I ask for recommendations?",
+      "meaning_th": "อยากรู้อาจารย์ด้านเสื้อผ้าแนะนำอย่างไง? คือคำถามแบบไหนดี?",
+      "hint": "ใส่ใจกับ tone of voice, formal and polite language is better when asking questions."
+    },
+    {
+      "phrase_ja": "おすすめはどのように言いますか？",
+      "romaji": "you-kichi wa dou tochi iimasu ka?",
+      "meaning_ja": "How do you ask for recommendations in the shop?",
+      "meaning_th": "ร้านเสื้อผ้าแนะนำแบบไหนดี",
+      "hint": "ลองถามดูว่าเขาชอบแบรนด์ไหน สีไหน, แบบไหน?  "
+    },
+    {
+      "phrase_ja": "〇〇のおすすめは？",
+      "romaji": "u-miko-kichi no you-kichi wa?",
+      "meaning_ja": "What kind of recommendation do you have for me?",
+      "meaning_th": "แนะนำอะไรดีครับ (คุณ)",
+      "hint": "ลองถามดูว่าเขาชอบแบรนด์ไหน สีไหน, แบบไหน?  "
+    }
+  ],
+  "explanation_th": "ในส่วนนี้เน้นการสื่อสารอย่างเป็นธรรมชาติ โดยใช้คำถามแบบไม่เคร่งเครียด. เช่น \"ร้านเสื้อผ้าแนะนำอะไรดีๆ\", \"อยากได้เสื้อผ้าแนะนำหน่อย\", หรือ \"มีแบบไหนดี\", เพื่อให้เกิดความสบายใจในการพูดคุยกับพนักงานที่ทำงานในร้านค้า.",
+  "tip_th": "ใส่ใจกับ tone of voice, formal and polite language is better when asking questions. Remember to express gratitude with \"ありがとう (Arigato) \".",
+  "meta_description": "เรียนรู้วิธีขอแนะนำสินค้าจากร้านเสื้อผ้าภาษาญี่ปุ่น! สิ่งสำคัญคือการพูดแบบธรรมชาติและสุภาพเพื่อสร้างความเข้าใจกันได้อย่างราบรื่น."
+}
