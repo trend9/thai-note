@@ -1,0 +1,44 @@
+{
+  "id": 178,
+  "title_ja": "週末の予定と過去形",
+  "title_th": "การพูดถึงกิจกรรมสุดท้ายอาทิตย์ที่ผ่านมา",
+  "category": "Grammar (文法)",
+  "category_th": "ระดับ 6: ไวยากรณ์น่ารู้",
+  "char": "週末の予定と過去形",
+  "stroke_count": 8,
+  "how_to_write_ja": "このレッスンでは、週末の予定について過去形を使って話す方法を学びます。\n過去形は、過去の出来事を表現するために使います。\n",
+  "how_to_write_th": "ในบทเรียนนี้ เรามาจะสอนวิธีการพูดเกี่ยวกับกิจกรรมที่ผ่านมาในวันอาทิตย์โดยใช้ประโยค past tense \nPast tense จะใช้แสดงเหตุการณ์ที่เกิดขึ้นในอดีต เช่น กิจกรรมสุดท้ายของวันอาทิตย์  ",
+  "important_phrases": [
+    {
+      "phrase_ja": "週末の予定 (Shūmatsu no yotei)",
+      "romaji": "Shūmatsu no yotei",
+      "meaning_ja": "Weekend plans",
+      "meaning_th": "แผนการทำกิจกรรมในวันอาทิตย์ที่ผ่านมา",
+      "hint": "Plan activities you did during the weekend."
+    },
+    {
+      "phrase_ja": "過去形 (Kakoe)",
+      "romaji": "Kō-ka-ko",
+      "meaning_ja": "Past tense",
+      "meaning_th": "อดีต",
+      "hint": "This is the past tense in Japanese."
+    },
+    {
+      "phrase_ja": "～て (Te)",
+      "romaji": "te",
+      "meaning_ja": "Ending for the past tense of verbs in Japanese.",
+      "meaning_th": "ใช้เพื่อบอกว่าประโยคนี้เป็นประโยคอดีต",
+      "hint": "This ending is a key to understanding past tense."
+    },
+    {
+      "phrase_ja": "～たら (tara)",
+      "romaji": "tara",
+      "meaning_ja": "If then",
+      "meaning_th": "ถ้า",
+      "hint": "This particle is used to express a hypothetical situation."
+    }
+  ],
+  "explanation_th": "การใช้ประโยค past tense ในภาษาญี่ปุ่นนั้นสำคัญมากเพื่อแสดงเหตุการณ์ที่เกิดขึ้นในอดีต ฤดูร้อนในประเทศไทยเป็นฤดูที่สบายใจสำหรับคนไทย ฉันชอบพักผ่อน ฉันชอบกินอาหารที่บ้านกับเพื่อนๆ  ส่วนใหญ่แล้วผู้คนจะทำกิจกรรมในวันอาทิตย์ เช่น ไปทานข้าวกับเพื่อน/คนรัก  หรือไปเที่ยวแหล่งท่องเที่ยว ญี่ปุ่นนั้นเต็มไปด้วยแหล่งท่องเที่ยวทางธรรมชาติ  ",
+  "tip_th": "ความหมายของประโยค past tense คือเวลาที่ผ่านมา และควรใช้เพื่อสื่อสารเหตุการณ์ที่เกิดขึ้นในอดีต เช่น ไปทานข้าวกับเพื่อน/คนรัก หรือไปเที่ยวแหล่งท่องเที่ยว ญี่ปุ่นนั้นเต็มไปด้วยแหล่งท่องเที่ยวทางธรรมชาติ\n",
+  "meta_description": "เรียนรู้วิธีการพูดถึงกิจกรรมสุดท้ายอาทิตย์ที่ผ่านมาในภาษาญี่ปุ่น! เรามาเรียนรู้เกี่ยวกับ past tense และทำความรู้จักประโยคสำคัญเกี่ยวกับวันอาทิตย์ที่ผ่านมา."
+}
