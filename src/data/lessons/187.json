@@ -1,0 +1,37 @@
+{
+  "id": 187,
+  "title_ja": "家族と仕事の話 (Family and Work Talk)",
+  "title_th": "พูดคุยเกี่ยวกับครอบครัวและงาน (Talk About Family and Work)",
+  "category": "Conversation",
+  "category_th": "ระดับ 6: ไวยากรณ์น่ารู้",
+  "char": "はじめまして (Hajimemashite)",
+  "stroke_count": 8,
+  "how_to_write_ja": "This means 'Nice to meet you.' The first part is a greeting and the second is to acknowledge that you are meeting someone for the first time. You would say this at the beginning of your conversation with someone new.",
+  "how_to_write_th": "พูดว่า \"ยินดีต้อนรับ\", \"เราเจอกันครั้งแรก\" หรือ \"ฉันขอขอบคุณที่ได้พบคุณ\"",
+  "important_phrases": [
+    {
+      "phrase_ja": "お名前は？ (O-namae wa?)",
+      "romaji": "O namae wa?",
+      "meaning_ja": "What is your name?",
+      "meaning_th": "ชื่อคุณคืออะไร?",
+      "hint": "You can ask about someone's name in Japanese. Pronounce the first two parts clearly to show respect."
+    },
+    {
+      "phrase_ja": "仕事は何ですか？ (Tokyō wa nan desu ka?)",
+      "romaji": "To-kyō wa nan desu ka?",
+      "meaning_ja": "What is your job?",
+      "meaning_th": "งานที่ทำของคุณคืออะไร?",
+      "hint": "Use this to learn a way to talk about the work someone does. This phrase means \"What do you do for work?\"."
+    },
+    {
+      "phrase_ja": "趣味は？ (Shūmi wa?)",
+      "romaji": "Sho-umi wa?",
+      "meaning_ja": "What are your hobbies?",
+      "meaning_th": "งานอดิเรกของคุณคืออะไร?",
+      "hint": "You can also ask someone about their hobbies and learn more about them. This phrase means \"Do you like to do anything interesting?\"."
+    }
+  ],
+  "explanation_th": "การพูดคุยเกี่ยวกับครอบครัวและงานเป็นเรื่องสำคัญในการแสดงความเคารพต่อคนอื่นและสร้างสรรค์ช่องทางในการเรียนรู้เพิ่มเติม การใช้คำว่า \"はじめまして (Hajimemashite) \"แสดงถึงความรู้สึกดีใจที่จะได้พบเจอคนที่เรามีส่วนร่วมนั้นๆ และเริ่มพูดคุยกัน เพื่อสร้างความเข้าใจในเรื่องนี้ให้ชัดเจน",
+  "tip_th": "เวลาพูดคุยเกี่ยวกับงานที่ทำควรใช้คำภาษาไทยที่ถูกต้องและมีประโยคที่สื่อสารได้อย่างเต็มรูปแบบ นอกจากนี้ควรใช้ทัศนคติที่เหมาะสมในการพูดคุยกับคนอื่นเพื่อสร้างความไว้ใจได้อย่างง่ายดาย",
+  "meta_description": "เรียนรู้วิธีพูดคุยเกี่ยวกับครอบครัวและงานในภาษาญี่ปุ่น โดยเฉพาะการใช้คำว่า \"はじめまして (Hajimemashite) \" เป็นตัวอย่างเช่น \"ฉันขอโทษที่ต้องมาเจอเธอ\", \"เราเจอกันครั้งแรก\"\n   เนื้อหาภาษาไทยนี้จะช่วยให้ผู้เรียนได้พัฒนาความสามารถในการพูดภาษาญี่ปุ่น"
+}
