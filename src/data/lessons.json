@@ -5070,5 +5070,35 @@
     "explanation_th": "การพูดคุยเกี่ยวกับครอบครัวและงานเป็นเรื่องสำคัญในการแสดงความเคารพต่อคนอื่นและสร้างสรรค์ช่องทางในการเรียนรู้เพิ่มเติม การใช้คำว่า \"はじめまして (Hajimemashite) \"แสดงถึงความรู้สึกดีใจที่จะได้พบเจอคนที่เรามีส่วนร่วมนั้นๆ และเริ่มพูดคุยกัน เพื่อสร้างความเข้าใจในเรื่องนี้ให้ชัดเจน",
     "tip_th": "เวลาพูดคุยเกี่ยวกับงานที่ทำควรใช้คำภาษาไทยที่ถูกต้องและมีประโยคที่สื่อสารได้อย่างเต็มรูปแบบ นอกจากนี้ควรใช้ทัศนคติที่เหมาะสมในการพูดคุยกับคนอื่นเพื่อสร้างความไว้ใจได้อย่างง่ายดาย",
     "meta_description": "เรียนรู้วิธีพูดคุยเกี่ยวกับครอบครัวและงานในภาษาญี่ปุ่น โดยเฉพาะการใช้คำว่า \"はじめまして (Hajimemashite) \" เป็นตัวอย่างเช่น \"ฉันขอโทษที่ต้องมาเจอเธอ\", \"เราเจอกันครั้งแรก\"\n   เนื้อหาภาษาไทยนี้จะช่วยให้ผู้เรียนได้พัฒนาความสามารถในการพูดภาษาญี่ปุ่น"
+  },
+  {
+    "id": 188,
+    "title_ja": "服屋でのおすすめの質問 (How to ask for recommendations at a clothing store)",
+    "title_th": "ร้านเสื้อผ้าแนะนำ (Rak shop thuan duan yau-da)",
+    "category": "Conversation (会話), Grammar (文法)",
+    "category_th": "ระดับ 4: การสื่อสารในสถานที่สาธารณะ",
+    "char": "おすすめ (recommendations)",
+    "stroke_count": 8,
+    "how_to_write_ja": "When shopping for clothes at a shop, it's important to ask the staff about recommendations.",
+    "how_to_write_th": "เมื่อไปซื้อเสื้อผ้าในร้านค้า จะควรขอแนะนำจากพนักงาน",
+    "important_phrases": [
+      {
+        "phrase_ja": "お店で服を買うとき、店員さんにおすすめを教えてください (How to ask for recommendations at a clothing store)",
+        "romaji": "O-shi-ne de furu o ukau toki, teinei ni yuu-e-shita-i-wa-o-kake-su-na-ki-i-ta-i-de-i-ta-i-i-da (How to ask for recommendations at a clothing store)",
+        "meaning_ja": "お店で服を買うとき、店員さんにおすすめを教えてください (When shopping for clothes at a shop, it's important to ask the staff about recommendations.)",
+        "meaning_th": "ร้านเสื้อผ้ามีเครื่องแต่งกาย ให้นึกถึงอะไรบ้าง? คุณควรขอข้อมูลจากพนักงานได้เลยค่ะ ",
+        "hint": "อยากลองหา outfit ใหม่ๆ? ควรขอคำแนะนำจากพนักงานในร้านค้า!"
+      },
+      {
+        "phrase_ja": "店員さんに教えてください (Ask the store staff)",
+        "romaji": "Ten-pei ni o-shi-ete-i-de-su (aske store staff)",
+        "meaning_ja": "店員さんに教えてください (When shopping for clothes at a shop, it's important to ask the staff about recommendations.)",
+        "meaning_th": "พนักงานร้านค้าแนะนำให้ได้เลยค่ะ",
+        "hint": "ใส่เสื้อผ้าไปก่อนนะ! หาแบบที่ชอบ!"
+      }
+    ],
+    "explanation_th": "เมื่อไปซื้อเสื้อผ้าในร้านค้า จะควรขอแนะนำจากพนักงานในร้านค้า เพื่อหา outfit ใหม่ๆ ที่ชอบ โดยคุณจะพูดว่า '店員さんに教えてください' (Ask the store staff) เพื่อให้พนักงานช่วยแนะนำ outfit ที่เหมาะสมกับคุณ.",
+    "tip_th": "**Tip:** การสื่อสารที่ดีกับพนักงาน clothing store จะทำให้คุณได้อัตโนมัติ 😜. อย่าลืมขอข้อมูลเพิ่มเติม! 😊",
+    "meta_description": "เรียนรู้วิธีการถามคำแนะนำเกี่ยวกับเสื้อผ้าจากพนักงานร้านค้าเพื่อหา outfit ที่ดีๆ!"
   }
 ]
