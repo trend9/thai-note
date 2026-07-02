@@ -1,0 +1,37 @@
+{
+  "id": 189,
+  "title_ja": "今日の天気と季節の話 (Lesson on Today's Weather and Seasonal Changes)",
+  "title_th": "การพูดถึง 날씨 และ thay đổiฤดู (Lesson on Talking about Weather and Seasons)",
+  "category": "Conversation",
+  "category_th": "Level 6: Talking About Weather and Seasonality",
+  "char": "今日",
+  "stroke_count": 1,
+  "how_to_write_ja": "Today means 'ku', in Japanese. The first character is written as one stroke, the second character as 'i'. It looks like a straight line with a slight curve going towards the top.",
+  "how_to_write_th": "วันนี้เขียนว่า 'วันนี้' (Wan ini) ใช้คำที่สื่อถึงวันนี้ โดยใช้หลักภาษาไทย",
+  "important_phrases": [
+    {
+      "phrase_ja": "今日は晴れです。 (Kyou wa hare desu.)",
+      "romaji": "kyou wa hare desu.",
+      "meaning_ja": "The weather is sunny today. ",
+      "meaning_th": "วันนี้เป็น 날씨ที่สวยงาม (Wan ini bpen nal-sī thai-ya sook-mae)",
+      "hint": "Can use this to describe the weather."
+    },
+    {
+      "phrase_ja": "今日は雨です。 (Kyou wa ame desu.)",
+      "romaji": "kyou wa ame desu.",
+      "meaning_ja": "It's raining today. ",
+      "meaning_th": "วันนี้ฝนตก (Wan ini fun tok)",
+      "hint": "Can use this to describe the weather."
+    },
+    {
+      "phrase_ja": "今日は風が吹いています。(Kyou wa kaze ga fuki i-te imasu.)",
+      "romaji": "kyou wa kaze ga fuuki i-te imasu.",
+      "meaning_ja": "There is a wind today. ",
+      "meaning_th": "วันนี้มีลม (Wan ini mee lum)",
+      "hint": "Can use this to describe the weather."
+    }
+  ],
+  "explanation_th": "พูดถึงเกี่ยวกับ 날씨และ thay đổiฤดู (Talking about Weather and Season Changes) is something that we all want to know. It's important to talk about how it feels today, especially when you are outside. This lesson will give the students some basic vocabulary related to weather conditions.",
+  "tip_th": "ลองพูดถึงวันนี้เป็นอย่างไร: (Wan ini bpen nal-sī thai-ya sook-mae)",
+  "meta_description": "Learn how to talk about the weather and seasons in Japanese. This lesson will help you improve your conversational skills."
+}
