@@ -5243,5 +5243,35 @@
     "explanation_th": "การพูดถึงเรื่องราวในวันศุกร์และเสาร์ (Past weekend activities) จะช่วยสร้างความเข้าใจในภาษาอังกฤษ (English) และภาษาญี่ปุ่น (Japanese) ได้อย่างดี! ใครอยากเรียนรู้เพิ่มเติมเกี่ยวกับสถานการณ์ทั่วไปในชีวิตประจำวัน (Daily life), สิ่งเหล่านี้สามารถช่วยให้คุณเข้าใจได้มากขึ้น. (Use this lesson to learn about what you have done on weekend in a natural way.)",
     "tip_th": "ฝึกพูดเรื่องที่ผ่านไป เช่น การใช้ภาษาอังกฤษ (English) และภาษาญี่ปุ่น (Japanese) ในชีวิตประจำวัน (Daily life). ภาษาไทย (Thai) มีความสำคัญในการเข้าใจและแสดงออก!",
     "meta_description": "เรียนรู้วิธีการพูดคุยเกี่ยวกับกิจกรรมในช่วงวันศุกร์และเสาร์ (Past weekend activities) ด้วย! เรียนรู้เทคนิคการใช้ PAST tense ในภาษาญี่ปุ่น (Japanese) และภาษาไทย (Thai). "
+  },
+  {
+    "id": 194,
+    "title_ja": "位置と存在:  「います」や「あります」を使いこなす!",
+    "title_th": "ตำแหน่งและความอยู่ :  ใช้อ่านว่า 'います' หรือ 'あります' ในภาษาญี่ปุ่น!",
+    "category": "Grammar (文法)",
+    "category_th": "Grammar (วิชาการเขียน) - ภาษาอาทิตย์",
+    "char": "います/あります",
+    "stroke_count": 8,
+    "how_to_write_ja": "「います」は、対象が現在場所にいることを表す。 「あります」 は、対象が現在場所にあることを表す。\n\n例： \n  * 部屋に猫がいます。 (He is in the room. )\n  * 部屋には猫がいます。(There's a cat in the room.)",
+    "how_to_write_th": "ใช้คำว่า \"อยู่\" หรือ \"มี\" เพื่อบอกตำแหน่งของสิ่งของในภาษาไทย\n\nเช่น,\n  * มีแมวอยู่ที่ห้องนี้ (There is a cat at this room.)\n  * แมวอยู่ที่ห้องนี้ (The cat is in the room.)",
+    "important_phrases": [
+      {
+        "phrase_ja": "部屋に猫がいます。(Neko ga yō imasu) ",
+        "romaji": "Heya ni neko ga imasu",
+        "meaning_ja": "This means there's a cat in the room.",
+        "meaning_th": "มีแมวอยู่ที่ห้องนี้ (Mew mai yoo khao thee lab-k-khan)\n  Meaning: \"There is a cat inside the house.\"",
+        "hint": "For example, if you say, '部屋に猫がいます', you are telling that there's a cat in the room."
+      },
+      {
+        "phrase_ja": "この本は英語です。(Kono hon wa eigo desu) ",
+        "romaji": "Kono hon wa eigo desu",
+        "meaning_ja": "This book is in English.",
+        "meaning_th": "หนังสือนี้เป็นภาษาอังกฤษ (Nai klong nee bpen phay-saang-ngok)",
+        "hint": "When you say this, it means the subject of your sentence, 'this', needs a meaning for location.  For example, 'この本は英語です' means that you are referring to a book in English. It would be necessary to specify the location if the context calls for it."
+      }
+    ],
+    "explanation_th": "ภาษาญี่ปุ่นใช้คำว่า \"います\" หรือ \"あります\" เพื่อบอกตำแหน่งของสิ่งของในสถานที่หรือเวลา.\n\n \"います\" หมายถึง object ที่อยู่ในสถานที่;\n \"あります\" หมายถึง object ที่อยู่ในสถานที่.\n\n- ‘部屋に猫がいます' (Neko ga yō imasu) :  This means there's a cat in the room.",
+    "tip_th": "การใช้คำว่า \"います\" หรือ \"あります\" จะทำให้ภาษาญี่ปุ่นมีความเป็นธรรมชาติมากขึ้น!\n\n- ใช้คำว่า \"いる\" หรือ \"ある\" ในภาษาไทยเช่น \"มีแมวอยู่\", \"มีหนังสืออยู่ใน,\" etc.\n- สร้างความเข้าใจง่ายในเรื่องของตำแหน่งและสถานที่",
+    "meta_description": "เรียนรู้ตำแหน่งของสิ่งของด้วยคำว่า \"います\" หรือ \"あります\" ในภาษาญี่ปุ่น! ลองฝึกทำแบบฝึกหัดเพื่อการเรียนรู้!"
   }
 ]
