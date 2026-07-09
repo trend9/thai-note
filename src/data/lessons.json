@@ -5296,5 +5296,42 @@
     "explanation_th": "บทเรียนเพื่อเลเวลอัปเรียนรู้การสื่อสารที่เป็นธรรมชาติประจำวัน เพื่อยกระดับความสามารถในการพูดภาษาญี่ปุ่นของคนไทยทีละขั้นตอน",
     "tip_th": "ฝึกฝนออกเสียงตามไฟล์เสียงซ้ำๆ เพื่อความคุ้นชินของรูปปากและกล้ามเนื้อลิ้น",
     "meta_description": "เรียนรู้ภาษาญี่ปุ่นหน้าใหม่ประจำวัน บทที่ 195 ติวเข้มสะกดคำและประโยคจำลอง"
+  },
+  {
+    "id": 196,
+    "title_ja": "寿司屋での注文 (Sushi Bar Ordering)",
+    "title_th": " ordering food at a sushi bar ",
+    "category": "Conversation",
+    "category_th": "ระดับ 5: การพูดคุยเรื่องอาหารในร้าน",
+    "char": "Sushi,  ",
+    "stroke_count": 8,
+    "how_to_write_ja": "寿司屋 (sushiya) is a Japanese restaurant that specializes in sushi.  注文 (omoi) means order, and it can be used to indicate you want to place an order at the counter.",
+    "how_to_write_th": "ร้านอาหารสไตล์ญี่ปุ่นที่ขายปลาแช่แข็งและอาหารอื่นๆ ที่เรียกว่า 'sushiya'   สั่งอาหาร (onod) หมายถึงจะสั่งอาหาร",
+    "important_phrases": [
+      {
+        "phrase_ja": "寿司屋 (Sushiya)",
+        "romaji": "Sushiya",
+        "meaning_ja": "Sushi restaurant",
+        "meaning_th": "ร้านอาหารสไตล์ญี่ปุ่น",
+        "hint": "Sushi is a type of Japanese cuisine, usually made with vinegared rice and various ingredients like seafood or vegetables."
+      },
+      {
+        "phrase_ja": "注文 (Omo)",
+        "romaji": "Omi",
+        "meaning_ja": "Order",
+        "meaning_th": "สั่งอาหาร",
+        "hint": "This word is used to order food or drinks at a restaurant, you can use it at a sushi bar."
+      },
+      {
+        "phrase_ja": "おにぎり (O-gori)",
+        "romaji": "Ogi",
+        "meaning_ja": "Onigiri",
+        "meaning_th": "ข้าวเหนียวสุก",
+        "hint": "Onigiri is a Japanese rice ball that can be filled with various ingredients."
+      }
+    ],
+    "explanation_th": "Sushi bar (寿司屋) is a popular choice for those who want to experience Japanese cuisine.  Sushi itself is made from vinegared rice combined with various fresh ingredients like seafood and vegetables, all rolled into a bite-sized package. Ordering at a sushi bar usually involves pointing to the desired dish on a menu or using a designated ordering system. 🍣",
+    "tip_th": "To place an order at a Sushi Bar in Japanese, it is important to be polite as customers will often interact with staff through verbal communication.",
+    "meta_description": "Learn how to order sushi and other food items at a Japanese restaurant using this lesson. Includes tips on ordering etiquette and pronunciation guides."
   }
 ]
