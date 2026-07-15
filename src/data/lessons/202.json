@@ -1,0 +1,30 @@
+{
+  "id": 202,
+  "title_ja": "家族と仕事の話 (Family and work)",
+  "title_th": "เรียนภาษาญี่ปุ่น: บทสนทนาเกี่ยวกับครอบครัวและอาชีพ (Conversation about family and job)",
+  "category": "Conversation",
+  "category_th": "Conversational Japanese",
+  "char": "はじめまして (Hajimemashite)",
+  "stroke_count": 8,
+  "how_to_write_ja": "「はじめまして」は「初めまして」と読みます。これは、日本語で挨拶に使う言葉です。相手との関係性に応じて使い分けることができます。「はじめまして」は「こんにちは」よりもフォーマルな挨拶なので、特別な場面では使われます。",
+  "how_to_write_th": "คำว่า \"はじめまして\" เป็นการทักทายในภาษาญี่ปุ่น แปลเป็นไทยว่า \"สวัสดีครับ/ค่ะ\" หรือ \"แชร์คุย\", โดยทั่วไปใช้กับคนรู้จักใหม่ๆ \n\n1. \"はじめまして\" (Hajimemashite) - ใช้แสดงความเคารพและเป็นมิตร,\n2. \"こんにちは\"  (Konnichiwa) - ใช้แทน \"はじめまして\" ในสถานการณ์ที่ไม่เน้นความเคร่งเครียด เช่น การพูดคุยทั่วไป",
+  "important_phrases": [
+    {
+      "phrase_ja": "お父さん (O-ta-san)",
+      "romaji": "oto-san",
+      "meaning_ja": "Father's name. (敬称)",
+      "meaning_th": "พ่อของฉัน (Fa-kun-chai) ภาษาไทย \n\nพ่อ is formal way to refer to father, while  O-ta-san is used when talking about father in a respectful tone.",
+      "hint": "Japanese address terms, like O-ta-san are polite and use formality."
+    },
+    {
+      "phrase_ja": "お母さん (Ok-an-san)",
+      "romaji": "ok-an-san",
+      "meaning_ja": "Mother's name. (敬称)",
+      "meaning_th": "แม่ของฉัน (Ma-kun-chai) ภาษาไทย \n\nแม่ is used for mother in a formal way, while Ok-an-san is used when talking about mother in a respectful tone.",
+      "hint": "Japanese address terms, like Ok-an-san are polite and use formality."
+    }
+  ],
+  "explanation_th": "การพูดคุยเกี่ยวกับครอบครัวและอาชีพเป็นเรื่องที่สำคัญในการเรียนภาษาญี่ปุ่น  ในภาษาไทย  เราจะใช้ \"พ่อ\" และ \"แม่\" เพื่ออ้างถึงครอบครัวและ \"เขา/เธอ\" สำหรับบุคคลอื่นๆ\n\n1. \"はじめまして\" - ใช้แสดงความเคารพและเป็นมิตร,\n2. \"こんにちは\" - ใช้แทน \"はじめまして\" ในสถานการณ์ที่ไม่เน้นความเคร่งเครียด เช่น การพูดคุยทั่วไป",
+  "tip_th": "ภาษาญี่ปุ่นมีความละเอียดอ่อนกว่าภาษาไทย ดังนั้นเวลาเรียนควรศึกษาเพิ่มเติมเพื่อเข้าใจได้อย่างถูกต้องและเหมาะสม\n\n1. \"はじめまして\" - ใช้แสดงความเคารพและเป็นมิตร,\n2. \"こんにちは\" - ใช้แทน \"はじめまして\" ในสถานการณ์ที่ไม่เน้นความเคร่งเครียด เช่น การพูดคุยทั่วไป",
+  "meta_description": "เรียนรู้เกี่ยวกับการพูดคุยเกี่ยวกับครอบครัวและอาชีพในภาษาญี่ปุ่น! เริ่มต้นจากคำว่า \"はじめまして\" และ \"こんにちは\" พร้อมคำแนะนำเพิ่มเติม!"
+}
