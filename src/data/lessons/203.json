@@ -1,0 +1,30 @@
+{
+  "id": 203,
+  "title_ja": "服屋でのおすすめの質問 (Recommended items from clothing stores)",
+  "title_th": "ขอแนะนำสินค้าในร้านค้า: เสื้อผ้าให้แบบนี้",
+  "category": "Conversation (会話)",
+  "category_th": "ระดับ 5: บทสนทนาในชีวิตประจำวัน",
+  "char": "おすすめ (Recommended)",
+  "stroke_count": 6,
+  "how_to_write_ja": "このフレーズは、服屋で店員さんに商品を尋ねる際に使う表現です。\"おすすめ\"という言葉は \"おすすめのアイテム\" を意味します。",
+  "how_to_write_th": "คำว่า \"ขอแนะนำ\" หมายถึงการขอข้อมูลหรือความเห็นส่วนตัวเกี่ยวกับสินค้าจากเจ้าหน้าที่ร้านค้า และ \"เสื้อผ้า \"คือสิ่งที่ผู้พูดต้องการขอแนะนำ สินค้า clothing store \n     * ภาษาไทย: คุณช่วยแนะนำอะไรบ้างในร้านนี้?  (คุณอยากจะรู้ว่าร้านค้ามีอะไรน่าสนใจไหม?) ",
+  "important_phrases": [
+    {
+      "phrase_ja": "お店でおすすめのアイテムを教えてください (Let me know the recommended items from the store)",
+      "romaji": "Oshi-sho no seikyou ni ichige mashite kudasai",
+      "meaning_ja": "You can ask the clerk for recommendations on specific items in a shop.",
+      "meaning_th": "ขอแนะนำสินค้าที่ร้านค้ามีอะไรน่าสนใจไหม?",
+      "hint": "Use this phrase when you want to know what kind of clothes or items are recommended by the store."
+    },
+    {
+      "phrase_ja": "この服は、おすすめのアイテムですね (This clothes is a good recommendation)",
+      "romaji": "Kono fuku wa, seikyou ni ichige mashite kudasai",
+      "meaning_ja": "When you see an item that looks nice or fits your style, tell the clerk. \"This outfit is great!\" ",
+      "meaning_th": "เมื่อเห็นเสื้อผ้าที่สวยงามหรือเหมาะกับสไตล์ของฉันบอกคนขาย \"นี่แหละดีเลย\"",
+      "hint": "You can use this phrase to confirm that the item you saw as a good recommendation."
+    }
+  ],
+  "explanation_th": "**คำศัพท์:**  \"おすすめ\" (recommended) เป็นคำที่ใช้ในการพูดถึงสิ่งที่ร้านค้าแนะนำ หรือสิ่งที่มีความน่าสนใจ.  โดย \"服屋\" (clothing shop) หมายถึงร้านค้าขายเสื้อผ้า.  ถ้าคุณอยากรู้ว่าร้านมีอะไรน่าสนใจไหม? คุณควรจะถาม \"お店でおすすめのアイテムを教えてください \"   (Let me know the recommended items from the store)",
+  "tip_th": "**การพูด:** ควรใช้เครื่องมือภาษาเพื่อแสดงความคิดเห็นอย่างเคารพ \"お店でおすすめのアイテムを教えてください.\" (Can you recommend some clothes in the shop?)",
+  "meta_description": "เรียนรู้วิธีขอแนะนำสินค้าในร้านค้าด้วยภาษาญี่ปุ่น! เรียนรู้คำศัพท์และสกิลการพูดแบบธรรมชาติ เพื่อความสามารถในการสื่อสารกับผู้ประกอบการร้านค้า clothing store!"
+}
