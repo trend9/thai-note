@@ -1,0 +1,30 @@
+{
+  "id": 205,
+  "title_ja": "丁寧なお願い：～てくださいを使った依頼 (Polite Request using ～てください)",
+  "title_th": "ขอแบบนี้: ~てください (Formal request) ",
+  "category": "Grammar (文法)",
+  "category_th": "ระดับ 6: ไวยากรณ์น่ารู้",
+  "char": "～てください",
+  "stroke_count": 8,
+  "how_to_write_ja": "～てくださいを使った依頼は、相手への丁寧な要望を表す表現です。依頼をするときに相手に礼儀正しくお願いをする際に使うものです。\n\n例：\n- 先生、資料を見せてください。(先生、資料を見せてください。) - Mr. Smith, please show me the materials.\n- 何か困ったことがあれば、私に言ってください。(何か困ったことがあれば、私に言ってください。) - If you have any problems, let me know.",
+  "how_to_write_th": "～てください  เป็นการขอสิ่งใดจากผู้อื่น โดยใช้พหุจริตความสุภาพและเกรงใจ ภาษาไทย \n\nตัวอย่างเช่น: \n- คุณเธอช่วยแสดงผลงานให้หน่อยได้ไหม? (คุณเธอช่วยแสดงผลงานให้หน่อยได้ไหม?)  - Can you please show me the work? ",
+  "important_phrases": [
+    {
+      "phrase_ja": "先生、資料を見せてください。(先生、資料を見せてください.)",
+      "romaji": "Sensei, shiro ni somenasai.",
+      "meaning_ja": "Please show me the materials, Mr. Smith (formal)",
+      "meaning_th": "ขอแสดงผลงานหน่อยได้ไหมค่ะ?",
+      "hint": "This is polite and formal way to request for something."
+    },
+    {
+      "phrase_ja": "何か困ったことがあれば、私に言ってください。(何か困ったことがあれば、私に言ってください.)",
+      "romaji": "Nano koto ga ari masu,  namae ni tsuite kudasai.",
+      "meaning_ja": "If you have any problems, let me know (formal)",
+      "meaning_th": "ถ้าคุณมีปัญหาอะไร โปรดแจ้งฉันได้เลยค่ะ ",
+      "hint": "This is polite and formal way to request for something."
+    }
+  ],
+  "explanation_th": "～てくださいを使った依頼 は、相手への礼儀正しさや丁寧さを表す表現です。依頼をするときに相手に礼儀正しくお願いをする際に使うものです。\n ここでは、先生/上司など相手に対して丁寧な言葉遣いを心がけて下さいね。",
+  "tip_th": "การใช้ ～てください は、相手に敬意を示すために使う表現であり、相手に失礼な言い方や態度を避けることが大切です。",
+  "meta_description": "เรียนรู้วิธีขอแบบนี้!  การพูดแบบนี้ช่วยให้ความเกรงใจของผู้พูดมากยิ่งขึ้น! ภาษาไทยและอังกฤษ"
+}
