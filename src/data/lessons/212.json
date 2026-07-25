@@ -1,0 +1,30 @@
+{
+  "id": 212,
+  "title_ja": "コンビニ会計 (Konbini Kaiki) - Convenience Store Checkout",
+  "title_th": "สอบถามราคาและชำระเงินในร้านค้าสะดวก (Kaai Khon Konbini)",
+  "category": "Conversation (会話)",
+  "category_th": "ระดับ 5: บทสนทนาในชีวิตประจำวัน",
+  "char": "Konbini (コンビニ)",
+  "stroke_count": 6,
+  "how_to_write_ja": "コンビニで会計をする際には、まず「〇〇（商品名）の値段はいくらですか？」と尋ねる。その後、支払いを決める際は、「合計金額はいくらですか？」と確認する。",
+  "how_to_write_th": "เมื่อต้องการจ่ายเงินในร้านค้าสะดวก (Konbini) ควรเริ่มด้วยการถามราคาสินค้าก่อน เช่น \"มีค่าของที่ 〇〇 รายการ ราคาเท่าไร\", และหลังจากนั้นก็ต้องยืนยันจำนวนเงินที่ใช้จ่าย โดยจะใช้วิธี \"รวมค่าสินค้าทั้งหมดเท่าไหร่\" เพื่อความสะดวกและสภาพจิตใจ",
+  "important_phrases": [
+    {
+      "phrase_ja": "値段はいくらですか？ (Naka wa ikura desu ka?)",
+      "romaji": "naka wa ikura desu ka?",
+      "meaning_ja": "What is the price?",
+      "meaning_th": "ราคาเท่าไร?",
+      "hint": "Use this phrase when asking about the price of a product."
+    },
+    {
+      "phrase_ja": "合計金額はいくらですか？ (Gattai kikan no ikura desu ka?)",
+      "romaji": "gatai kikan no ikura desu ka?",
+      "meaning_ja": "How much is the total bill?",
+      "meaning_th": "ค่ารวมทั้งหมดเท่าไหร่?",
+      "hint": "This phrase is used when checking total bills."
+    }
+  ],
+  "explanation_th": "**คำถามและวิธีการชำระเงินในร้านสะดวก (Konbini)**\n* **คำถาม:** เพื่อเริ่มต้นการคุยเรื่องราคาของสินค้า ควรใช้ประโยค \"値段はいくらですか？\" (Naka wa ikura desu ka?)  เพื่อสอบถามราคาของสินค้าก่อน หากต้องการทราบราคาที่รวมทั้งหมด ควรใช้ประโยค \"合計金額はいくらですか？\" (Gattai kikan no ikura desu ka?) \n* **คำแนะนำ:** การพูดคุยเกี่ยวกับการชำระเงินควรทำในศัพท์ที่เป็นธรรมชาติและสุภาพ เช่น \"ขอใบเสร็จ\", \"ค่าสินค้า\", และ \"รวมค่าสินค้าทั้งหมด\", เพื่อความสบายใจในทุกสถานการณ์\n**",
+  "tip_th": "ในการซื้อของในร้านสะดวก ควรพยายามใช้ภาษาไทยอย่างสม่ำเสมอเพื่อแสดงความเคารพและความสนใจต่อคนขาย.  ",
+  "meta_description": "ลัดเข้าขั้นสูง! บทเรียนภาษาญี่ปุ่นสำหรับนักพูดชาวไทย, เริ่มจากการขอราคาในร้านสะดวก (Konbini) และวิธีชำระเงินให้ถูกต้อง!"
+}
