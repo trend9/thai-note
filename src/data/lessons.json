@@ -6171,5 +6171,35 @@
     "explanation_th": "บทเรียนเพื่อเลเวลอัปเรียนรู้การสื่อสารที่เป็นธรรมชาติประจำวัน เพื่อยกระดับความสามารถในการพูดภาษาญี่ปุ่นของคนไทยทีละขั้นตอน",
     "tip_th": "ฝึกฝนออกเสียงตามไฟล์เสียงซ้ำๆ เพื่อความคุ้นชินของรูปปากและกล้ามเนื้อลิ้น",
     "meta_description": "เรียนรู้ภาษาญี่ปุ่นหน้าใหม่ประจำวัน บทที่ 230 ติวเข้มสะกดคำและประโยคจำลอง"
+  },
+  {
+    "id": 231,
+    "title_ja": "時間と営業時間の質問 (Telling the time and business hours)",
+    "title_th": "การถามเวลาและเวลาทำการ (Asking about Time and Business Hours)",
+    "category": "Grammar",
+    "category_th": "ระดับ 5: ไวยากรณ์น่ารู้",
+    "char": "時 (Time)",
+    "stroke_count": 8,
+    "how_to_write_ja": "時刻を尋ねるときは、\"今何時ですか？\"と尋ねます。 \"時間\" は \"現在\" を表すため、\"現在は何時ですか？\" と尋ねることができます。",
+    "how_to_write_th": "เมื่อต้องการสอบถามเวลาให้ใช้ประโยค \"ตอนนี้几点\" หรือ \"เวลาเท่าไร\", เพื่อสอบถามเกี่ยวกับเวลาปัจจุบันนั้นๆ และ \"ทำการ\" หมายถึง \"เวลาเปิด\"",
+    "important_phrases": [
+      {
+        "phrase_ja": "今何時ですか？ (What time is it now?),",
+        "romaji": "Ima, nani-ji desu ka?",
+        "meaning_ja": "Time in Japanese, asking the current time",
+        "meaning_th": "เวลาปัจจุบันคืออะไร?",
+        "hint": "You can use \"時間\" to ask \"Is it time?\", and \"現在は何時ですか？\" (What time is it now?) when you're asking about the current time."
+      },
+      {
+        "phrase_ja": "営業時間は何時ですか？ (What time is your business open/closed?),",
+        "romaji": "Gōsō-shitsu wa nanji desu ka?",
+        "meaning_ja": "Business hours in Japanese, asking about opening and closing time.",
+        "meaning_th": "เวลาเปิด-ปิดของร้านค้าคืออะไร? ",
+        "hint": "You can ask \"営業時間は何時ですか？\" if you are talking to someone who owns a shop. It's also polite to inquire before visiting the shop."
+      }
+    ],
+    "explanation_th": "ภาษาไทยจะใช้คำศัพท์เพื่อแสดงเวลาในรูปแบบที่เป็นธรรมชาติ เช่น \"ตอนนี้\", \"กี่โมง\", หรือ \"เวลา\", เพื่อความสะดวกในการสื่อสาร การใช้ประโยคแบบ \"時間\" หมายถึง \"เวลา\",\"",
+    "tip_th": "เวลาในภาษาไทยเราจะพูด \"ตอนนี้\", \"กี่โมง\", หรือ \"เวลา\", และ \"ทำการ\" หมายถึง \"เวลาเปิด-ปิด\":",
+    "meta_description": "เรียนรู้วิธีบอกเวลาและเวลาทำการสำหรับผู้พูดภาษาไทย ลดความลापริดในการสื่อสารกับคนทั่วไปและพนักงาน retail!"
   }
 ]
