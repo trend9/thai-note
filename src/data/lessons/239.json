@@ -1,0 +1,30 @@
+{
+  "id": 239,
+  "title_ja": "場所を表現する：「います/あります」",
+  "title_th": "พูดถึงสถานที่:  「います/あります」",
+  "category": "Grammar (文法)",
+  "category_th": "ระดับ 5: ไวยากรณ์น่ารู้",
+  "char": "います/あります",
+  "stroke_count": 8,
+  "how_to_write_ja": "「います」と「あります」は、相手に場所を説明するために使われます。  「います」は、人がいる場所を示し、「あります」は、物や場所を説明します。\n\n「います」は、動作や状態を表す場合に用いる。\n\n例:\n\n* 私は図書館で本を読んでいます。(Watashi wa toshokan de hon o yonde imasu.) - I am reading a book at the library.\n* あなたは学校で勉強しています。(Anata wa gakkou de benkyou shite imasu.) - You are studying at school.\n\n「あります」は、物や場所を説明する際に用いる。\n\n例:\n\n* 日本には富士山があります。(Nihon niwa Fuji-san ga arimasu.) - Mount Fuji is in Japan.\n* 私は家があります。(Watashi wa ie ga arimasu.) - I have a house.\n\n「います」と「あります」は、文法的に重要な役割を果たします。",
+  "how_to_write_th": "**「います」**  และ **「あります」** เป็นประโยคที่ใช้ในการบอกสถานที่  \n*  **「います」**  ใช้บอกคนที่อยู่ที่ suatuสถานที่\n*  **「あります」**  ใช้บอกสิ่ง/สถานที่\n\n**ตัวอย่าง** \n*  **私は図書館で本を読んでいます。(Watashi wa toshokan de hon o yonde imasu.) -  ฉันกำลังอ่านหนังสืออยู่ในห้องสมุด** \n*  **あなたは学校で勉強しています。(Anata wa gakkou de benkyou shite imasu.)  - คุณกำลังเรียนอยู่ในโรงเรียน**",
+  "important_phrases": [
+    {
+      "phrase_ja": "私は図書館で本を読んでいます。(Watashi wa toshokan de hon o yonde imasu.)",
+      "romaji": "Watashi wa toshokan de hon o yonde imasu.",
+      "meaning_ja": "私は図書館で本を読んでいます。  (watashi wa toshokan de hon o yonde imasu.) - I am reading a book at the library.",
+      "meaning_th": "ฉันกำลังอ่านหนังสืออยู่ในห้องสมุด.",
+      "hint": "สถานที่และสิ่งที่ทำอยู่  (Location and action in Thai) "
+    },
+    {
+      "phrase_ja": "あなたは学校で勉強しています。(Anata wa gakkou de benkyou shite imasu.)",
+      "romaji": "Anata wa gakkou de benkyou shite imasu.",
+      "meaning_ja": "あなたは学校で勉強しています。 (anata wa gakkou de benkyou shite imasu.) - You are studying at school. ",
+      "meaning_th": "คุณกำลังเรียนอยู่ในโรงเรียน.",
+      "hint": "สถานที่และสิ่งที่ทำอยู่ (Location and action in Thai)"
+    }
+  ],
+  "explanation_th": " **「います」**  และ **「あります」**  เป็นประโยคที่ใช้ในการบอกสถานที่ ซึ่งหมายความว่า “คน” หรือ “สิ่ง” ที่อยู่ที่นั้น  **「います」**  หมายถึง “คน” ที่อยู่ที่สถานที่  **「あります」**  หมายถึง “สิ่ง” ที่อยู่ที่สถานที่  \n\nตัวอย่าง **「います」** \n*  **私は図書館で本を読んでいます。(Watashi wa toshokan de hon o yonde imasu.) -  ฉันกำลังอ่านหนังสืออยู่ในห้องสมุด** \n*  **あなたは学校で勉強しています。(Anata wa gakkou de benkyou shite imasu.) -  คุณกำลังเรียนอยู่ในโรงเรียน** \n\nตัวอย่าง **「あります」** \n*  **日本には富士山があります。(Nihon ni wa Fuji-san ga arimasu.) -  มีภูเขาไฟในประเทศญี่ปุ่น**",
+  "tip_th": "**แนะนำ:** \n \n*  ลองทำตัวอย่างเพิ่มเติมเพื่อฝึกฝนการใช้ประโยคนี้ \n*  ใช้คำพูดนี้ในการพูดคุยกับคนอื่น\n*  เรียนรู้เพิ่มเติมเกี่ยวกับสถานที่และสิ่งที่ทำอยู่\n  ",
+  "meta_description": "เรียนรู้เพิ่มเติมเกี่ยวกับการใช้ประโยค 'います/あります' เพื่อพูดถึงสถานที่ และสิ่งที่อยู่ที่นั้นในภาษาญี่ปุ่น"
+}
