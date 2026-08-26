@@ -1,0 +1,37 @@
+{
+  "id": 244,
+  "title_ja": "お名前と出身地 (Name & Place of Origin) - Conversation",
+  "title_th": "ทักทายครั้งแรก (Hajimemashite) - สิ่งที่จำเป็นในการพูดภาษาญี่ปุ่น",
+  "category": "Conversation",
+  "category_th": "ระดับ 5: บทสนทนาในชีวิตประจำวัน",
+  "char": "はじめまして (Hajimemashite)",
+  "stroke_count": 8,
+  "how_to_write_ja": "こんにちは。\n\nお名前は？\n\n出身地は？\n\n(Hello!)\n\nWhat's your name?\n\nWhat is your hometown?\n",
+  "how_to_write_th": "เริ่มต้นการสนทนา:\n\n   *   สวัสดีครับ/ค่ะ\n\n   *   ชื่ออะไร\n   *   บ้านเกิดที่ไหน\n",
+  "important_phrases": [
+    {
+      "phrase_ja": "はじめまして (Hajimemashite)",
+      "romaji": "Hajimemashite",
+      "meaning_ja": "Hello (to new people) ",
+      "meaning_th": "มาพบกันครั้งแรก",
+      "hint": "The most important phrase when meeting someone for the first time in Japanese."
+    },
+    {
+      "phrase_ja": "お名前は？ (Onamae wa?)",
+      "romaji": "Onamae wa?",
+      "meaning_ja": "What's your name?",
+      "meaning_th": "ชื่ออะไร",
+      "hint": "Use this to inquire about someone's name."
+    },
+    {
+      "phrase_ja": "出身地は？ (Jōshinchi wa?)",
+      "romaji": "Jōshinchi wa?",
+      "meaning_ja": "Where are you from?",
+      "meaning_th": "เมืองเกิดของคุณ",
+      "hint": "Asking about their birthplace."
+    }
+  ],
+  "explanation_th": "ภาษาญี่ปุ่นมีทักษะการสื่อสารที่ซับซ้อนกว่าภาษาอื่นๆ  ภาษาไทยและภาษาญี่ปุ่นมีประวัติศาสตร์อันยาวนานและมีความเกี่ยวพันกันมาก  การเรียนรู้ภาษาญี่ปุ่นโดยเฉพาะอย่างยิ่งภาษาที่ใช้ในระดับต่างๆ จะช่วยให้คนไทยเข้าใจภาษาและวัฒนธรรมของประเทศญี่ปุ่นได้มากขึ้น  ในบทเรียนนี้เรียนรู้วิธีการถามชื่อและบอกสถานที่กำเนิดของผู้คนด้วยภาษาญี่ปุ่นอย่างนุ่มนวล  ภาษาไทยและภาษาญี่ปุ่นมีความแตกต่างกันในเรื่องของประสบการณ์การเรียนรู้ภาษา และวิธีการสื่อสาร  การเรียนรู้ภาษาญี่ปุ่นอย่างเหมาะสมและถูกต้องจะทำให้ผู้เรียนสามารถเข้าถึงและสัมผัสกับวัฒนธรรมและประวัติศาสตร์ของประเทศญี่ปุ่นได้อย่างเต็มที่  ",
+  "tip_th": "**Pronunciation Tips:**\n-  Listen to audio examples of how to pronounce the words. \n-  Try speaking with a native speaker or a language partner to practice. \n-  Use online pronunciation resources like Forvo or Google Translate\n\n**Writing Tips:**\n-  Practice writing the characters for the phrases. \n-  Use a calligraphy brush or a pen to write in Japanese. \n-  Use a Japanese writing guide online or a physical guide to learn the correct stroke order. \n\n**Cultural Tips:**\n-  Learn about Japanese customs and etiquette before engaging in conversation with a Japanese person. \n-  Be mindful of the way you address people, and be respectful.",
+  "meta_description": "เรียนรู้วิธีการถามชื่อและบอกสถานที่กำเนิดของผู้คนในภาษาญี่ปุ่นด้วยบทเรียนนี้!  การเรียนรู้ภาษาญี่ปุ่นโดยเฉพาะอย่างยิ่งภาษาที่ใช้ในระดับต่างๆ จะช่วยให้คนไทยเข้าใจภาษาและวัฒนธรรมของประเทศญี่ปุ่นได้มากขึ้น  "
+}
