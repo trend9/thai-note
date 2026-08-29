@@ -1,0 +1,30 @@
+{
+  "id": 247,
+  "title_ja": "家族と仕事の話 (Family and Work Talk)",
+  "title_th": "พูดถึงครอบครัวและงาน (Family and Work Talk)",
+  "category": "Conversation (会話)",
+  "category_th": "ระดับ 5: บทสนทนาในชีวิตประจำวัน",
+  "char": "はじめまして (Hajimemashite)",
+  "stroke_count": 8,
+  "how_to_write_ja": "**はじめまして** (Hajimemashite) is a Japanese greeting that means ‘It's nice to meet you.’ It’s used as a polite way to start a conversation. The kanji for 挨拶 (Greeting) represents a person’s first impression.",
+  "how_to_write_th": "**เริ่มด้วย** (Hajimemashite) is a Thai greeting that means ‘It's nice to meet you.’ It's used as a polite way to start a conversation. The meaning of this phrase is the same as in Japanese.",
+  "important_phrases": [
+    {
+      "phrase_ja": "私の父親は医師です (Watashi no chichio-san wa ishiro desu)",
+      "romaji": "Watashi no chichio-san wa ishiro desu",
+      "meaning_ja": "My father is a doctor.",
+      "meaning_th": "พ่อของฉันเป็นแพทย์.",
+      "hint": "For this phrase, start with 'Watashi' (I), then follow with 'no' (of), 'chichio' (father), 'san' (honorific), then 'wa' (is/is) and 'hiro' (doctor). "
+    },
+    {
+      "phrase_ja": "私の母親は教師です (Watashi no mama-san wa kyoushi desu)",
+      "romaji": "Watashi no mama-san wa kyoushi desu",
+      "meaning_ja": "My mother is a teacher.",
+      "meaning_th": "แม่ของฉันเป็นครู",
+      "hint": "For this phrase, start with 'Watashi' (I), then follow with 'no' (of), 'mama' (mother), 'san' (honorific), then 'wa' (is/is) and 'kyoushi' (teacher). "
+    }
+  ],
+  "explanation_th": "**Family members and work** are important aspects of Japanese culture. The conversation will allow you to understand the dynamics between family members and how work shapes their lives. Learning about different career paths and families will broaden your comprehension of Japanese society.",
+  "tip_th": "**Pronunciation**: Use a soft, polite tone when speaking. Practice using Japanese words and phrases. Listen to native speakers to improve your pronunciation.",
+  "meta_description": "Get to know your family members' jobs and learn how to discuss them in Japanese. This lesson will teach you essential phrases and tips to build confidence in conversation."
+}
