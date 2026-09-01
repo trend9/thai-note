@@ -1,0 +1,30 @@
+{
+  "id": 250,
+  "title_ja": " polite な依頼：てください を使う (polite way of asking for help - 'てください')",
+  "title_th": "เรียนรู้การร้องขออย่างมีเกียรติ: 'てください' (polite way of asking for help - 'てください')",
+  "category": "Grammar (文法)",
+  "category_th": "Grammar (文法)",
+  "char": "てください (てください)",
+  "stroke_count": 8,
+  "how_to_write_ja": "This phrase is used to politely request something. It means 'Please' in a more formal way, it shows respect.",
+  "how_to_write_th": "ใช้ 'てください'  แสดงความเคารพเป็นอย่างมากเวลาขออะไร  เป็นคำศัพท์ที่ใช้ในทางการเมืองและทางการเมือง",
+  "important_phrases": [
+    {
+      "phrase_ja": "私に、資料をください (nai ni, shiru-sa-o kudasai)",
+      "romaji": "nani ni, shiru-sa-o kudasai",
+      "meaning_ja": "Please give me the data/information",
+      "meaning_th": "ให้ข้อมูลด้วยหน่อยครับ",
+      "hint": "Use 'てください' for polite requests."
+    },
+    {
+      "phrase_ja": "この本をください (kono hon wo kudasai)",
+      "romaji": "kono hon wo kudasai",
+      "meaning_ja": "Please give me this book.",
+      "meaning_th": "ให้หนังสือหน่อยค่ะ",
+      "hint": "If you want to request something, add 'てください' to sound more polite."
+    }
+  ],
+  "explanation_th": "คำว่า 'てください' เป็นคำศัพท์ที่ใช้ในภาษาไทยในการขออะไร  ใช้ในบริบททางการเมือง  แสดงความเคารพสูง  ส่วนคำว่า '資料' ในภาษาไทยหมายถึงข้อมูลหรือเอกสาร  ส่วนคำว่า '本' หมายถึงหนังสือ  ใช้คำว่า 'てください'  เพื่อแสดงความเคารพสูง",
+  "tip_th": "คำว่า 'てください'  ใช้ได้ในทุกสถานการณ์   ถ้าพูดกับคนอื่น  จะทำให้เขาได้รับความเคารพ  และแสดงความสุภาพ  ส่วนคำว่า '資料' หมายถึงข้อมูลหรือเอกสาร  ส่วนคำว่า '本' หมายถึงหนังสือ  ",
+  "meta_description": "เรียนรู้ 'てください' เพื่อทำเรื่องขอแบบมีเกียรติ!  ภาษาไทย 'てください' หมายถึง 'ขอ' ในภาษาไทย  โดยใช้ 'て' และ 'ください' ในภาษาไทย"
+}
