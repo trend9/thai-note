@@ -7000,5 +7000,42 @@
     "explanation_th": "คำว่า \"おすすめ\"  (recommendation) เป็นคำที่ใช้ในการขอคำแนะนำจากร้านค้า clothing store. \"おすすめ\"  เขียน \"おすすめ\" โดยใช้  \"おすすめ\" .",
     "tip_th": "ใส่ \"おすすめ\"  (recommendation)  ในคำถามเพื่อแสดงความอยากได้คำแนะนำจากร้านค้า clothing store. \"おすすめ\"  เป็นคำที่ใช้ในการขอคำแนะนำจากร้านค้า clothing store. \n\n  หากพูดกับพนักงานร้านค้า clothing store, ให้แสดงความอยากได้คำแนะนำจากร้านค้า clothing store โดยการใช้ \"おすすめ\"  (recommendation)  เพื่อแสดงความอยากได้คำแนะนำ.",
     "meta_description": "เรียนภาษาญี่ปุ่นสำหรับผู้พูดภาษาไทย, เรียนรู้คำว่า \"おすすめ\" (recommendation) เพื่อขอคำแนะนำจากร้านค้า clothing store.  เรียนรู้วิธีการใช้คำและคำอธิบายภาษาญี่ปุ่นในบทเรียนภาษาญี่ปุ่น."
+  },
+  {
+    "id": 264,
+    "title_ja": "今日の天気と季節の話",
+    "title_th": "การคุยเกี่ยวกับสภาพอากาศวันนี้และความเปลี่ยนแปลงของฤดู",
+    "category": "Conversation (会話)",
+    "category_th": "ระดับ 4: การสื่อสารในชีวิตประจำวัน",
+    "char": "今日は",
+    "stroke_count": 6,
+    "how_to_write_ja": "Today's weather is described using the words '今日は' and '天気'.  '天気' means weather.  '今日は' means 'Today' and can be used as an initial point for a conversation about weather.  Adding '今日は' allows for a specific topic and can be used to follow up with the weather in more detail. ",
+    "how_to_write_th": "พูดถึงสภาพอากาศวันนี้เริ่มด้วยคำว่า ‘วันนี้’ แล้วตามด้วยคำว่า ‘วันนี้มีฝน’ เพื่อบอกว่าวันนี้ฝนตก, หรือ ‘วันนี้มีแดด’ เพื่อบอกว่าวันนี้มีแดด.  ",
+    "important_phrases": [
+      {
+        "phrase_ja": "今日は",
+        "romaji": "Kyō wa",
+        "meaning_ja": "Meaning: Today",
+        "meaning_th": "Meaning: วันนี้",
+        "hint": "Start with this phrase to start a conversation about the weather today."
+      },
+      {
+        "phrase_ja": "天気は",
+        "romaji": "Tente wa",
+        "meaning_ja": "Meaning: Weather",
+        "meaning_th": "Meaning: อากาศ",
+        "hint": "Weather is a key part of the topic we're discussing, so make sure to include it in the conversation."
+      },
+      {
+        "phrase_ja": "晴れ",
+        "romaji": "Hare",
+        "meaning_ja": "Meaning: Sunny/Clear",
+        "meaning_th": "Meaning: สวย/สดใส",
+        "hint": "If you want to talk about the weather being clear and sunny, use the phrase '晴れ' in your conversation."
+      }
+    ],
+    "explanation_th": "คำพูดเกี่ยวกับสภาพอากาศวันนี้เป็นเรื่องสำคัญในภาษาไทย การเริ่มต้นการพูดคุยเกี่ยวกับสภาพอากาศของวันนี้สามารถเริ่มต้นจากการพูดถึงคำว่า ‘วันนี้’ และต่อด้วยคำว่า ‘วันนี้มีฝน’ เพื่อบอกว่าวันนี้ฝนตก หรือ ‘วันนี้มีแดด’ เพื่อบอกว่าวันนี้มีแดด.  คำพูดเกี่ยวกับสภาพอากาศวันนี้เป็นเรื่องที่สำคัญในภาษาไทย",
+    "tip_th": "For smoother conversation, you can ask your friend if their day is '晴れ' meaning sunny, or '曇り' meaning cloudy. To emphasize the point of how the weather affects you personally, you can say '今日はいい天気だね', meaning today the weather is nice. ",
+    "meta_description": "ฝึกการสื่อสารภาษาญี่ปุ่นเกี่ยวกับสภาพอากาศวันนี้และความเปลี่ยนแปลงของฤดู"
   }
 ]
