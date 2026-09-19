@@ -7106,5 +7106,35 @@
     "explanation_th": "บทเรียนเพื่อเลเวลอัปเรียนรู้การสื่อสารที่เป็นธรรมชาติประจำวัน เพื่อยกระดับความสามารถในการพูดภาษาญี่ปุ่นของคนไทยทีละขั้นตอน",
     "tip_th": "ฝึกฝนออกเสียงตามไฟล์เสียงซ้ำๆ เพื่อความคุ้นชินของรูปปากและกล้ามเนื้อลิ้น",
     "meta_description": "เรียนรู้ภาษาญี่ปุ่นหน้าใหม่ประจำวัน บทที่ 267 ติวเข้มสะกดคำและประโยคจำลอง"
+  },
+  {
+    "id": 268,
+    "title_ja": "週末の予定と過去形",
+    "title_th": "พูดถึงกิจกรรมในวันอาทิตย์ของเรา (Weekends)",
+    "category": "Grammar (文法)",
+    "category_th": "Grammar (文法)",
+    "char": "週末 (Shūmatsu)",
+    "stroke_count": 8,
+    "how_to_write_ja": "週末 (Shūmatsu) は、7つの日に分けて、土曜日と日曜日を含む。週末は、家族や友人と過ごすのに最適な時間だ。週末に予定を立てることは重要だ。",
+    "how_to_write_th": "สัปดาห์นี้เป็นวันสุดท้ายที่เราจะได้ใช้เวลาไปกับครอบครัวและเพื่อนฝูง  เวลาสัปดาห์นี้ควรมีเวลาว่างเพื่อทำกิจกรรมที่ชอบ   การวางแผนกิจกรรมในวันอาทิตย์เป็นสิ่งสำคัญ  ",
+    "important_phrases": [
+      {
+        "phrase_ja": "週末 (Shūmatsu) は、7つの日に分けて、土曜日と日曜日を含む。週末は、家族や友人と過ごすのに最適な時間だ。週末に予定を立てることは重要だ。",
+        "romaji": "Shūmatsu wa, seven days split into Saturday and Sunday, it's the perfect time to be with family and friends. Planning activities for the weekend is important.",
+        "meaning_ja": "週末 (Shūmatsu) は、7つの日に分けて、土曜日と日曜日を含む。週末は、家族や友人と過ごすのに最適な時間だ。週末に予定を立てることは重要だ。",
+        "meaning_th": "สัปดาห์นี้เป็นวันสุดท้ายที่เราจะได้ใช้เวลาไปกับครอบครัวและเพื่อนฝูง  เวลาสัปดาห์นี้ควรมีเวลาว่างเพื่อทำกิจกรรมที่ชอบ  การวางแผนกิจกรรมในวันอาทิตย์เป็นสิ่งสำคัญ  ",
+        "hint": "This phrase explains the meaning of 'Weekend' and how it's important for planning activities."
+      },
+      {
+        "phrase_ja": "週末の予定 (Shūmatsu no yōtei) は、どんなことをしたか？",
+        "romaji": "Shūmatsu no yōtei wa, don't you know what you've been up to,?",
+        "meaning_ja": "週末の予定 (Shūmatsu no yōtei) は、どんなことをしたか？  , meaning 'What did you do over the weekend?',",
+        "meaning_th": "วันอาทิตย์ที่แล้วเราทำอะไรกันบ้าง?",
+        "hint": "This phrase helps to get a clearer picture of the past weekend activities."
+      }
+    ],
+    "explanation_th": "การพูดถึงสถานการณ์ในอดีตเป็นวิธีที่ดีในการเพิ่มความน่าสนใจในการพูดภาษาญี่ปุ่น  เราจะได้เรียนรู้เทคนิคการใช้ประโยคบอกเล่าความประทับใจในภาษาญี่ปุ่น  และคำศัพท์ที่เกี่ยวข้องกับกิจกรรมในวันอาทิตย์  ",
+    "tip_th": " tip_th",
+    "meta_description": "Learn how to talk about past weekend activities using the past tense in Japanese! This lesson will help you build your conversational skills, plus learn useful grammar and vocabulary. "
   }
 ]
