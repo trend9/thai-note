@@ -1,0 +1,37 @@
+{
+  "id": 272,
+  "title_ja": "コンビニ会計: 値段と支払う (Convenience Store Checkout: Price and Payment)",
+  "title_th": "คำน saisi: ก่อนซื้อของ (Convenience Store: Price and Payment)",
+  "category": "Vocabulary (単語)",
+  "category_th": "Vocabulary (คำศัพท์)",
+  "char": "コンビニ会計 (Convenience Store Checkout)",
+  "stroke_count": 12,
+  "how_to_write_ja": "コンビニ会計 (konbini kaikei) is the checkout procedure at a convenience store. It often involves asking for the price, paying using cash or a card, and receiving a receipt. \n  *  コンビニ (konbini) means 'convenience store'. \n  *  会計 (kaikei) means 'checkout' or 'transaction'.",
+  "how_to_write_th": "คำน saisi (kau-saai) คือการซื้อของในร้านสะดวกซื้อ (konbini). จะต้องบอกราคา (price) และจ่ายเงิน (payment) แล้วจะได้ใบเสร็จ (receipt). \n  *  ร้านสะดวกซื้อ (konbini) แปลว่า 'convenience store'. \n  *  kau-saai (คำน saisi) หมายถึง 'checkout' หรือ 'transaction'.",
+  "important_phrases": [
+    {
+      "phrase_ja": "この商品いくらですか？ (Kono go-shimai ikura desu ka?)",
+      "romaji": "Kono go-shimai ikura desu ka?",
+      "meaning_ja": "How much is this product?",
+      "meaning_th": "ราคานี้เท่าไหร่คะ?",
+      "hint": "polite way to ask about price in Japanese."
+    },
+    {
+      "phrase_ja": "お会計はいくらですか？ (O kaikei wa ikura desu ka?)",
+      "romaji": "O kaikei wa ikura desu ka?",
+      "meaning_ja": "How much is the total bill?",
+      "meaning_th": "ค่าสินค้าทั้งหมดเท่าไหร่คะ?",
+      "hint": "asking for total bill in Japanese"
+    },
+    {
+      "phrase_ja": "現金で (Ke-men de)",
+      "romaji": "Ke-men de",
+      "meaning_ja": "Paying with cash",
+      "meaning_th": "ชำระด้วยเงินสด (Cham-rae-duu-ng-ngang-sd)",
+      "hint": "paying in cash is a normal way to pay at convenience store in Japan."
+    }
+  ],
+  "explanation_th": "**คำน saisi (kau-saai)** คือการซื้อของในร้านสะดวกซื้อ (konbini). จะต้องบอกราคา (price) และจ่ายเงิน (payment) แล้วจะได้ใบเสร็จ (receipt). \n  *  ร้านสะดวกซื้อ (konbini) แปลว่า 'convenience store'. \n  *  kau-saai (คำน saisi) หมายถึง 'checkout' หรือ 'transaction'.",
+  "tip_th": "**วิธีพูด**  - หากซื้อสินค้าในร้านสะดวกซื้อ (konbini) ให้พูดว่า 'この商品いくらですか？' (Kono go-shimai ikura desu ka?) เพื่อขอราคาสินค้า  - หากต้องการชำระด้วยเงินสด (cash payment) ให้พูดว่า '現金で (Ke-men de)' เพื่อแสดงความต้องการชำระด้วยเงินสด. \n  *  คำพูดที่สุภาพ (polite language) คือวิธีที่ดีที่สุดในการพูดกับคนอื่น.",
+  "meta_description": "เรียนรู้วิธีขอราคาและชำระเงินในร้านสะดวกซื้อ (convenience store) ด้วยบทเรียนภาษาญี่ปุ่นที่ง่ายต่อการเข้าใจ! 🎉 สิ่งสำคัญที่ควรทราบในบทเรียนนี้คือวิธีการขอราคาและวิธีการชำระเงินในร้านสะดวกซื้อ (convenience store). 🎉"
+}
