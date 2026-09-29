@@ -7420,5 +7420,35 @@
     "explanation_th": "การพูดคุยเรื่องครอบครัวและงานถือเป็นการเริ่มต้นการคุยเกี่ยวกับชีวิตประจำวันของคุณได้ดี หากต้องการพูดคุยเรื่องครอบครัวและงานในภาษาญี่ปุ่น คุณควรเริ่มต้นด้วยคำว่า 'はじめまして' (Nice to meet you) ซึ่งเป็นคำพูดที่ช่วยเปิดประเด็นในการพูดคุยเกี่ยวกับครอบครัวและงานของคุณ",
     "tip_th": "สไตล์การพูดภาษาญี่ปุ่น: คุณสามารถลองใช้คำพูดแบบอ้อมค้อมในการพูดคุยกับคนไทย เพื่อเพิ่มความเป็นมิตรและเหมาะสมในการต่อสื่อ",
     "meta_description": "เรียนรู้วิธีการพูดคุยเรื่องครอบครัวและงานในภาษาญี่ปุ่น เพื่อเพิ่มเกียรติในชีวิตประจำวันของคุณ! เรียนรู้วิธีการพูดคุยภาษาญี่ปุ่นอย่างนุ่มนวล"
+  },
+  {
+    "id": 278,
+    "title_ja": "服屋でのおすすめの質問 (Recommendations from clothing stores)",
+    "title_th": "ขอคำแนะนำร้านเสื้อผ้า (How to ask for clothing store recommendations)",
+    "category": "Conversation (会話)",
+    "category_th": "ระดับ 5: บทสนทนาในชีวิตประจำวัน",
+    "char": "おすすめ (Recommendation)",
+    "stroke_count": 8,
+    "how_to_write_ja": "When asking for a recommendation from a clothing store staff, you can say 'おすすめ ( recommendation)'  or 'おすすめは (recommendation is)'.  There are several words you can use for recommendations from stores, such as 'おすすめ (recommendation)'  or 'おすすめは (recommendation is)'.  The meaning of these words is similar to 'recommendation' in English.  The word 'おすすめ' is a commonly used Japanese word meaning 'recommendation' or 'suggestion'.  It is a formal and polite way of asking for a recommendation. ",
+    "how_to_write_th": "ขอคำแนะนำร้านเสื้อผ้า (How to ask for clothing store recommendations)",
+    "important_phrases": [
+      {
+        "phrase_ja": "おすすめ (recommendation)",
+        "romaji": "rekommendation",
+        "meaning_ja": "A suggestion or recommendation.",
+        "meaning_th": "คำแนะนำ",
+        "hint": "ใช้ได้ในสถานการณ์ส่วนใหญ่เช่นขอแนะนำร้านอาหารหรือขอคำแนะนำเกี่ยวกับเสื้อผ้า"
+      },
+      {
+        "phrase_ja": "おすすめは (recommendation is)",
+        "romaji": "rekommendation is",
+        "meaning_ja": "The recommendation is for the person to choose from the available options. ",
+        "meaning_th": "คำแนะนำของเรามาจากร้านค้า",
+        "hint": "ใช้ได้ในสถานการณ์ส่วนใหญ่เช่นขอแนะนำร้านอาหารหรือขอคำแนะนำเกี่ยวกับเสื้อผ้า"
+      }
+    ],
+    "explanation_th": "**คำแนะนำ (Recommendation)**: คำแนะนำคือสิ่งที่แนะนำให้คนอื่นเลือกจากสิ่งที่เป็นไปได้ ตัวอย่างเช่น ถ้าถามเกี่ยวกับร้านอาหารจะบอกว่าร้านนี้มีอาหารอร่อยๆ คุณสามารถบอกไปว่า 'ร้านนี้มีอาหารอร่อยๆ' หรือ 'ร้านนี้มีอาหารดีๆ' การใช้คำแนะนำเป็นการขอความคิดเห็นจากผู้อื่น เพื่อให้ได้คำตอบที่ถูกต้องและเหมาะสม  ",
+    "tip_th": "**การพูดภาษาไทย**:  พูดภาษาไทยให้เรียบง่ายและสุภาพ  ",
+    "meta_description": "เรียนรู้วิธีขอคำแนะนำจากพนักงานร้านเสื้อผ้าในภาษาญี่ปุ่น! เรียนรู้คำศัพท์และคำศัพท์ภาษาไทยในบทเรียนนี้. "
   }
 ]
