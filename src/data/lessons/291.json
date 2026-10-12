@@ -1,0 +1,30 @@
+{
+  "id": 291,
+  "title_ja": "日本語の時間を教えて下さい (How do you say time in Japanese?)",
+  "title_th": "เวลาของเรา (How do you say time in Thai?)",
+  "category": "Grammar (文法)",
+  "category_th": "ระดับ 5: ไวยากรณ์น่ารู้",
+  "char": "時間 (Time)",
+  "stroke_count": 8,
+  "how_to_write_ja": "時間 (Time) は、曜日と時を記載して表現します。\n\n時間に関する表現を学ぶには、基本的な時を表現する言葉から始めてください。\n\n例えば:\n\n- 午前 (morning): am\n- 午後 (afternoon): pm\n- 夜 (night): night\n- 今日は (today): today\n- 明日 (tomorrow): tomorrow\n\n時間に関する表現を理解することで、さらに複雑な文法を学ぶことができます。",
+  "how_to_write_th": "เวลา (time) ที่ไทยใช้บอกเวลาโดยใช้คำว่า \"วัน\", \"เช้า\", \"บ่าย\", \"เย็น\", \"คืน\", \"วันนี้\", \"พรุ่งนี้\", หรือ \"วันอื่นๆ\" โดยคำว่า \"เช้า\", \"บ่าย\", \"เย็น\", \"คืน\" สร้างรูปแบบเวลาในภาษาไทยได้",
+  "important_phrases": [
+    {
+      "phrase_ja": "今日は何時ですか？ (What time is it today?)",
+      "romaji": "Kyō wa nanji desu ka?",
+      "meaning_ja": "What time is it today?",
+      "meaning_th": "วันนี้เวลาเท่าไร?",
+      "hint": "How do you ask someone for the time? Can use this phrase to start a conversation about time"
+    },
+    {
+      "phrase_ja": "時刻は？ (What time is it?)",
+      "romaji": "Jitsukute?",
+      "meaning_ja": "What time is it?",
+      "meaning_th": "เวลาเท่าไร?",
+      "hint": "How do you ask for the time?"
+    }
+  ],
+  "explanation_th": "เวลา (Time) คือเวลาที่เราใช้บอกเวลาในชีวิตประจำวันของเรา  เวลาของเราจะบอกได้จากเครื่องมือต่างๆ เช่น นาฬิกา, แบรนด์, หรือเว็บไซต์ต่างๆ",
+  "tip_th": "คำศัพท์ที่เกี่ยวข้อง: \n- **時間 (Time):**  เป็นสิ่งที่สำคัญในชีวิตประจำวันของเรา \n- **午前 (Morning):**  เวลาเริ่มต้นในวัน  \n- **午後 (Afternoon):**  เวลาช่วงกลางวัน  \n- **夜 (Night):**  เวลาในตอนเย็น  \n- **今日は (Today):**  เวลาในวันนี้  \n- **明後日 (Tomorrow):**  เวลาในวันพรุ่งนี้  \n- **日 (Day):**  วันของเรา",
+  "meta_description": "เรียนรู้วิธีบอกเวลาในภาษาญี่ปุ่น: วันนี้, วันพรุ่งนี้, และอื่นๆ \nความเข้าใจเรื่องเวลาในภาษาไทยจะเป็นประโยชน์ในการพูดภาษาญี่ปุ่นได้อย่างดี"
+}
