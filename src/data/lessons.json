@@ -7862,5 +7862,35 @@
     "explanation_th": "บทเรียนเพื่อเลเวลอัปเรียนรู้การสื่อสารที่เป็นธรรมชาติประจำวัน เพื่อยกระดับความสามารถในการพูดภาษาญี่ปุ่นของคนไทยทีละขั้นตอน",
     "tip_th": "ฝึกฝนออกเสียงตามไฟล์เสียงซ้ำๆ เพื่อความคุ้นชินของรูปปากและกล้ามเนื้อลิ้น",
     "meta_description": "เรียนรู้ภาษาญี่ปุ่นหน้าใหม่ประจำวัน บทที่ 295 ติวเข้มสะกดคำและประโยคจำลอง"
+  },
+  {
+    "id": 296,
+    "title_ja": "許可を尋ねる：~てもいいですか (Asking for Permission using ~てもいいですか)",
+    "title_th": "ขออนุญาต：~ってもいいですか (Khonaanunayta: Temo Tumien) (Permission to ask) ",
+    "category": "Conversation (会話)",
+    "category_th": "Conversation (การสนทนา)",
+    "char": "~てもいいですか",
+    "stroke_count": 8,
+    "how_to_write_ja": "This phrase means ‘Can I/is it okay if I…?’.  It's used when asking permission or for a request, especially when you want to politely confirm whether something is allowed.  The word 'でも' means 'but', and the 'ても'  is a common particle in Japanese to express this kind of idea.  ",
+    "how_to_write_th": "This phrase means “ขออนุญาต” which means to ask permission. It is used when you want to politely ask permission for something. It is usually used with the particles ‘でも’ and ‘っても’.",
+    "important_phrases": [
+      {
+        "phrase_ja": "～てもいいですか",
+        "romaji": "Ttemo iidesuka",
+        "meaning_ja": "Can I/is it okay if I…?",
+        "meaning_th": "ขออนุญาต/ permission to do something?",
+        "hint": "Use this when you want to ask permission for something politely"
+      },
+      {
+        "phrase_ja": "いいえ",
+        "romaji": "Iie",
+        "meaning_ja": "No",
+        "meaning_th": "ไม่",
+        "hint": "This is the response when someone is not allowed to do something."
+      }
+    ],
+    "explanation_th": "**คำแนะนำ:** การขออนุญาตเป็นส่วนหนึ่งของภาษาญี่ปุ่นที่สำคัญมากในชีวิตประจำวัน. การขออนุญาตแสดงความเคารพและเป็น courtesy. ในภาษาไทยเราใช้คำว่า ‘ขออนุญาต’ เพื่อแสดงความเคารพ  .  สามารถใช้ ‘~てもいいですか’ ในสถานการณ์ต่างๆ เช่น ขอ permission to do something, or get permission to speak in public.",
+    "tip_th": "**คำแนะนำเพิ่มเติม:** ภาษาไทยส่วนใหญ่ใช้คำ ‘ขออนุญาต’ เพื่อแสดงความเคารพ.  การใช้ ~ってもいいですか  เป็นการแสดงความเคารพในภาษาญี่ปุ่น. ภาษาไทยส่วนใหญ่ใช้คำ ‘ขออนุญาต’ เพื่อแสดงความเคารพ. ภาษาไทยส่วนใหญ่ใช้คำ ‘ขออนุญาต’ เพื่อแสดงความเคารพ.  .  .  .  ",
+    "meta_description": "รู้จักวิธีการขออนุญาตในภาษาญี่ปุ่น?  เรียนรู้วิธีการใช้~てもいいですか  เพื่อแสดงความเคารพและความสุภาพในภาษาญี่ปุ่น!"
   }
 ]
