@@ -8548,5 +8548,49 @@
     "explanation_th": "บทเรียนเพื่อเลเวลอัปเรียนรู้การสื่อสารที่เป็นธรรมชาติประจำวัน เพื่อยกระดับความสามารถในการพูดภาษาญี่ปุ่นของคนไทยทีละขั้นตอน",
     "tip_th": "ฝึกฝนออกเสียงตามไฟล์เสียงซ้ำๆ เพื่อความคุ้นชินของรูปปากและกล้ามเนื้อลิ้น",
     "meta_description": "เรียนรู้ภาษาญี่ปุ่นหน้าใหม่ประจำวัน บทที่ 323 ติวเข้มสะกดคำและประโยคจำลอง"
+  },
+  {
+    "id": 324,
+    "title_ja": "天気と季節の話（今日の天気と季節の話）",
+    "title_th": "พูดถึง 날씨และเปลี่ยนแปลงฤดูกาล (พูดถึง 날씨และเปลี่ยนแปลงฤดูกาล)",
+    "category": "Conversation (会話)",
+    "category_th": "ระดับ 5: บทสนทนาในชีวิตประจำวัน",
+    "char": "今日は",
+    "stroke_count": 4,
+    "how_to_write_ja": "今日の天気は...",
+    "how_to_write_th": "พูดถึง 날씨ของวันนี้...",
+    "important_phrases": [
+      {
+        "phrase_ja": "今日は",
+        "romaji": "Kyō wa",
+        "meaning_ja": "It's today.",
+        "meaning_th": "วันนี้",
+        "hint": "This phrase means 'today.' Use it to start a conversation about the weather."
+      },
+      {
+        "phrase_ja": "晴天",
+        "romaji": "Hetsun",
+        "meaning_ja": "Sunny",
+        "meaning_th": " despeja",
+        "hint": "Explanation in Thai:  sunny days are beautiful days. You can use this phrase to describe the weather."
+      },
+      {
+        "phrase_ja": "曇天",
+        "romaji": "Kumo-ten",
+        "meaning_ja": "Cloudy",
+        "meaning_th": "ฝนตก",
+        "hint": "Explanation in Thai: Cloudy days can make it harder to do outdoor activities, but sometimes they are pleasant."
+      },
+      {
+        "phrase_ja": "雨",
+        "romaji": "Ame",
+        "meaning_ja": "Rain",
+        "meaning_th": "ฝน",
+        "hint": "Explanation in Thai:  It's important to note if it's raining. This can be helpful for planning activities."
+      }
+    ],
+    "explanation_th": "พูดถึง 날씨และเปลี่ยนแปลงฤดูกาล: การพูดถึงวันนี้เป็นสิ่งสำคัญในภาษาญี่ปุ่นและภาษาไทย เนื่องจากในภาษาไทยใช้ภาษาประโยคและรูปแบบการพูดต่อเนื่องกับภาษาญี่ปุ่น เช่น การพูดถึง 날씨ในวันนี้เป็นสิ่งที่ต้องพูดถึงและใช้ภาษาไทย",
+    "tip_th": "ฝึกฝนพูดคุยเกี่ยวกับวันนี้เป็นเรื่องสำคัญในภาษาญี่ปุ่นและภาษาไทย เนื่องจากในภาษาไทยใช้ภาษาประโยคและรูปแบบการพูดต่อเนื่องกับภาษาญี่ปุ่น เช่น การพูดถึง 날씨ในวันนี้เป็นสิ่งที่ต้องพูดถึงและใช้ภาษาไทย",
+    "meta_description": "เรียนรู้วิธีพูดถึงวันนี้และฤดูกาลในภาษาญี่ปุ่นและภาษาไทย เริ่มจากทัศนคติและสิ่งที่ควรพูดในภาษาไทย การฝึกฝนพูดคุยเกี่ยวกับวันนี้เป็นเรื่องสำคัญในภาษาญี่ปุ่นและภาษาไทย"
   }
 ]
