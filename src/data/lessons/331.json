@@ -1,0 +1,30 @@
+{
+  "id": 331,
+  "title_ja": "寿司屋での注文 (Ordering at a Sushi Bar)",
+  "title_th": "สั่งอาหารที่ร้านอาหารญี่ปุ่น (Sushi Bar Order)",
+  "category": "Conversation (会話)",
+  "category_th": "ระดับ 5: บทสนทนาในชีวิตประจำวัน",
+  "char": "Sushi (寿司) ",
+  "stroke_count": 8,
+  "how_to_write_ja": "寿司 (sushi) は、日本の伝統的な料理で、ご飯と魚介類を組み合わせて作る料理です。",
+  "how_to_write_th": "อาหารญี่ปุ่น (sushi) คืออาหารที่มีประวัติศาสตร์ยาวนานในประเทศญี่ปุ่น เป็นอาหารที่ทำจากข้าวและสัตว์น้ำที่ผสมเข้ากันอย่างดีค่ะ",
+  "important_phrases": [
+    {
+      "phrase_ja": "はい (Hai)",
+      "romaji": "haii",
+      "meaning_ja": "yes",
+      "meaning_th": "ใช่",
+      "hint": "Use this phrase to confirm your order"
+    },
+    {
+      "phrase_ja": "お願いします (Onegai shimasu)",
+      "romaji": "onegai shimasu",
+      "meaning_ja": "Please",
+      "meaning_th": "ขออภัย",
+      "hint": "Use this phrase when asking for something"
+    }
+  ],
+  "explanation_th": "การสั่งอาหารในร้านอาหารญี่ปุ่น (Sushi Bar) จะต้องรู้จักการสั่งอย่างถูกต้อง  โดยใช้คำว่า '寿司'  เพื่อสั่งอาหาร 'Sushi'  และคำอื่นๆ เช่น  'うなぎ' (Unagi) 'サーモン' (Seared Salmon) 'イカ' (Ika) หรือภาษาญี่ปุ่นเป็นภาษาที่ใช้กันทั่วไป  ภาษาไทยที่ใช้กันทั่วไป  เช่น 'sushi' 'umai'  'suki'  'shashimi' และ 'ikura'  ภาษาไทยใช้กันทั่วไป  ภาษาไทยที่ใช้กันทั่วไป  เช่น 'sushi' 'umai'  'suki'  'shashimi' และ 'ikura' ภาษาไทยใช้กันทั่วไป  ภาษาไทยที่ใช้กันทั่วไป  เช่น 'sushi' 'umai'  'suki'  'shashimi' และ 'ikura' ",
+  "tip_th": " when ordering food and drinks in a Japanese restaurant.  The best way is to learn the basic words for food in Japanese. ",
+  "meta_description": "Learn how to order food and drinks at a sushi bar using Japanese and Thai terms for food.  Get a step-by-step guide for beginner level Japanese."
+}
